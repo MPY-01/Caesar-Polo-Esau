@@ -4,11 +4,7 @@ This repository contains Markdown transcriptions and a browsable catalog of thre
 
 The original declassified papers are available from CIA's website as PDF documents. I transcribed them into text to make the collection easier to search, quote, reuse. I particularly wanted to create text-only transcriptions to facilitate analysis using large language models.
 
-> For background and context, see **["Cold War Era Hard Target Analysis Of Soviet And Chinese Policy And Decision Making, 1953-1973",](./Introduction - The Caesar Polo and Esau Papers.md)** written by CIA historians in 2007. Dylan Levi King also [wrote an analysis](https://www.chinatalk.media/p/heretics-in-the-cia-predicting-the) of these materials in the January 24, 2024 edition of ChinaTalk, much of which is not paywalled.
-
-- **Source PDFs:** Linked in each document’s metadata (`source_url`).
-- **Transcription method:** OCR with *Gemini 2.5 Flash*, followed by light normalization of metadata/front matter, and conversion of Wade-Giles names to Pinyin.
-- **Licensing:** Public Domain (CC0) for all transcriptions and the catalog. The underlying U.S. Government works are public domain; any errors in transcription are mine.
+For background and context, see ["Cold War Era Hard Target Analysis Of Soviet And Chinese Policy And Decision Making, 1953-1973"]( <./Introduction - The Caesar Polo and Esau Papers.md> ), written by CIA historians in 2007. Dylan Levi King also [wrote an analysis](https://www.chinatalk.media/p/heretics-in-the-cia-predicting-the) of these materials in the January 24, 2024 edition of ChinaTalk, much of which is not paywalled.
 
 ## How to browse
 Start with a series:
