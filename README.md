@@ -20,11 +20,4 @@ The master catalog is **[`catalog/catalog.csv`](./catalog/catalog.csv)** with fi
 ## Provenance & caveats
 - Transcriptions were produced via OCR; expect occasional mistakes. If you spot significant errors, feel free to open an issue or suggest a fix.
 - Document metadata in each Markdown file comes from the catalog and/or source PDF metadata where available.
-<<<<<<< HEAD
-- Filenames/IDs follow the CIA series conventions, e.g. `esau-13`, `polo-34`, etc.
-
-## Licensing
-All original content in this repository (transcriptions and catalog) is dedicated to the **public domain** under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). To the extent possible under law, I waive all copyright and related or neighboring rights to the contents of this repository.
-=======
-- Filenames/IDs follow the CIA series conventions, e.g. `esau-13`, `polo-34`, etc.
->>>>>>> 5e862ce (Normalize pinyin)
+- Filenames/IDs follow the original CIA series conventions, e.g. `esau-13`, `polo-34`, etc.
