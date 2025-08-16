@@ -20,7 +20,7 @@ CURRENT INTELLIGENCE STAFF STUDY
 
 [REDACTED]
 
-MAO TSE-TUNG AND HISTORICAL MATERIALISM
+MAO ZEDONG AND HISTORICAL MATERIALISM
 
 III. "CONTRADICTIONS" IN A "SOCIALIST" SOCIETY (Reference Title: POLO XIII-61)
 
@@ -28,7 +28,7 @@ Office of Current Intelligence CENTRAL INTELLIGENCE AGENCY
 
 FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY
 
-MAO TSE-TUNG AND HISTORICAL MATERIALISM
+MAO ZEDONG AND HISTORICAL MATERIALISM
 
 III. "CONTRADICTIONS" IN A "SOCIALIST" SOCIETY
 
@@ -56,7 +56,7 @@ for some time after it had gone wrong, and he has sustained an illusion of criti
 
 Of Mao's "contributions"--the thesis of leaders-led contradiction, encouragement of non-Communist criticism, toleration of small strikes, and the thesis of non-antagonistic contradition between the national bourgeoisie and the working class--only the last is an acceptable topic of discussion today. The "Hundred Flowers" policy of 1961 is far from the policy of 1957.
 
-FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY MAO TSE-TUNG AND HISTORICAL MATERIALISM
+FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY MAO ZEDONG AND HISTORICAL MATERIALISM
 
 III. "CONTRADICTIONS" IN A "SOCIALIST" SOCIETY*
 
@@ -78,7 +78,7 @@ Not antagonism but contradictions, which according to Marx were the motive force
 
 Chinese Communist theorists acknowledge Lenin's contribution to the matter of contradictions in a "socialist" society. And well they might, as Mao himself, in On Contradiction (first published in China in April 1952), quotes Lenin's abovementioned statement. (3)
 
-But in order to clear the way for Mao as a creative thinker on contradictions, the theorists go on to minimize Lenin's contribution. Theorist Pien Chang says that, "Lenin was restricted by historical factors and was therefore not able to make a detailed elaboration of the basic theory of contradiction," (4) and Sun Tingguo alleges that, "Lenin in his day had come too late to make an all-round observation on the matter of internal contradictions in a socialist society." (5)
+But in order to clear the way for Mao as a creative thinker on contradictions, the theorists go on to minimize Lenin's contribution. Theorist Pien Zhang says that, "Lenin was restricted by historical factors and was therefore not able to make a detailed elaboration of the basic theory of contradiction," (4) and Sun Tingguo alleges that, "Lenin in his day had come too late to make an all-round observation on the matter of internal contradictions in a socialist society." (5)
 
 Stalin's statements on contradictions under "socialism" are also mentioned, but only in a general way, and are similarly minimized.
 
@@ -178,7 +178,7 @@ Internal antagonisms should be dealt with as soon as they appear. But what to do
 
 In this respect, it can even be said that small strikes are beneficial because they point to mistakes committed. Of course, big general strikes cannot be considered in the same way because they are not fought to rectify mistakes or to satisfy rightful grievances, but are directed against the regime itself. (33) FOR OFFICIAL USE ONLY
 
-Mao goes on to say that "persuasion" rather than reprisals or force should be used to dissuade workers from using the "method of small strikes." The same was to hold true for strikes by students. When Tientsin University students went on strike in late 1956 to protest the extension of university courses by a year, CCP activists are said to have talked to the students "for three days and three nights," resolving the dispute by conciliation, i.e. by agreeing to abolish the extension. (34) As Mao is said to have put it, the proper conclusion for a dispute was either that those who raised the initial argument understood they were mistaken or that errors on the part of the authorities were exposed and corrected. (35) Mao's concern here is with "rectifying" bureaucracy among CCP cadres in order to prevent further strikes.
+Mao goes on to say that "persuasion" rather than reprisals or force should be used to dissuade workers from using the "method of small strikes." The same was to hold true for strikes by students. When Tianjin University students went on strike in late 1956 to protest the extension of university courses by a year, CCP activists are said to have talked to the students "for three days and three nights," resolving the dispute by conciliation, i.e. by agreeing to abolish the extension. (34) As Mao is said to have put it, the proper conclusion for a dispute was either that those who raised the initial argument understood they were mistaken or that errors on the part of the authorities were exposed and corrected. (35) Mao's concern here is with "rectifying" bureaucracy among CCP cadres in order to prevent further strikes.
 
 It was, of course, the Polish press rather than the Soviet press which reported with approval this professed willingness of Mao to show a degree of tolerance for small strikes and resolve them by means of persuasion and conciliation. Moscow remained silent on the matter. Three of Mao's innovations--open acknowledgement that conflicts exist at times between leaders and the led in "socialist" countries, encouragement of criticism of the CCP by nonCommunists and the whole population, and toleration of "small" strikes and their resolution through conciliation--constituted an implicit rebuke of Soviet methods. Mao criticized Stalin for his "rule of terror and liquidation of thousands of Communists," and went on to make a more generalized statement of Soviet experience in a condescending manner:
 
@@ -204,7 +204,7 @@ FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY
 
 exactly what the reactionaries want and what they represent. (38)
 
-When, during the question and answer session, an incredulous listener asked if it were "really necessary" to publish Chiang's works and VOA broadcasts, Mao gave a second reason for "Hundred Flowers," e.g. toughen your forces:
+When, during the question and answer session, an incredulous listener asked if it were "really necessary" to publish Jiang's works and VOA broadcasts, Mao gave a second reason for "Hundred Flowers," e.g. toughen your forces:
 
 The new generation, which did not fight face to face with imperialism and reactionaries, must know why we are calling on them to continue that fight. And another reason. We cannot breed flowers in a hothouse. Such flowers will be neither beautiful or healthy. We must strengthen and harden them if their fruits are to be lasting. (39)
 
@@ -212,7 +212,7 @@ Was Mao more realistic than his incredulous and apprehensive questioner? Inasmuc
 
 However, the decisive test for Mao's realism or lack of it would not be his decision in 1956 to begin a free criticism policy (40) but whether he would persist in it if it were clearly a failure. Apparently out of conceit and obstinacy, he did indeed insist, for a time, that the policy be sustained and made even more liberal despite signs of danger to CCP prestige. For Mao's name had been directly associated with "Hundred Flowers" and he and his policy were admired in some parts of the bloc and the free world. To halt the "Hundred Flowers" was to admit personal failure. Stalin was not known for admission of personal failure and neither is Mao.
 
-Nevertheless, it was only a pretense of "Hundred Flowers" which was sustained after June 1957. When it was suggested to Zhou Enlai--who had established the "soft" line on liberalization with Mao--by a foreign student that the CCP's action in calling a halt to free criticism in June 1957 contradicted Mao's idea of "Hundred Flowers," Chou snapped that it was not a contradiction at all. "Hundred Flowers" continues--but why should enemies of "socialism" be permitted to speak?
+Nevertheless, it was only a pretense of "Hundred Flowers" which was sustained after June 1957. When it was suggested to Zhou Enlai--who had established the "soft" line on liberalization with Mao--by a foreign student that the CCP's action in calling a halt to free criticism in June 1957 contradicted Mao's idea of "Hundred Flowers," Zhou snapped that it was not a contradiction at all. "Hundred Flowers" continues--but why should enemies of "socialism" be permitted to speak?
 
 FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY
 
@@ -254,9 +254,9 @@ NOTES
 
 3. Mao Zedong: On Contradiction, International Publishers, New York, 1953, p. 52.
 
-4. Pien Chang: "A Trial Discussion of Comrade Mao Zedong's Development of Marxist-Leninist Philosophy," Li-lun Hsueh-hsi (Studies in Theory), No. 9, Mukden, 1 September 1960.
+4. Pien Zhang: "A Trial Discussion of Comrade Mao Zedong's Development of Marxist-Leninist Philosophy," Li-lun Hsueh-hsi (Studies in Theory), No. 9, Mukden, 1 September 1960.
 
-5. Sun Tingguo: "A Tremendous Development of the Law of Marxist Dialectics," Che-hsueh Yen-chiu (Philosophical Research), No. 3, 15 June 1958.
+5. Sun Tingguo: "A Tremendous Development of the Law of Marxist Dialectics," Che-hsueh Yen-qiu (Philosophical Research), No. 3, 15 June 1958.
 
 6. Stalin: "Results of the Work of the 14th Party Conference" (1925), Sochineniia (Works), Moscow, Gospolitizdat, 1946-1951, Volume VII, pp. 90-132.
 
@@ -280,7 +280,7 @@ FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY
 
 15. B. Kedrov: "On Forms of Leaps in the Development of Nature and Society," Bol'shevik, No. 15, August 1951.
 
-16. Xu Lichun, Chen Tao, and Chen Moyi: "On the Problem of the Correct Handling of Contradictions Among the People is a Mighty Contribution to Marxism-Leninism," Che-hsueh Yen-chiu, No. 3, 15 June 1958.
+16. Xu Lichun, Chen Tao, and Chen Moyi: "On the Problem of the Correct Handling of Contradictions Among the People is a Mighty Contribution to Marxism-Leninism," Che-hsueh Yen-qiu, No. 3, 15 June 1958.
 
 17. Mao Zedong: On the Problem of the Correct Handling of Contradictions Among the People (1957), English-language text, New Century Publishers, New York, 1957, pp. 10-11.
 
@@ -296,15 +296,15 @@ FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY
 
 22. Writing in 1954, G.E. Glezerman had discussed the base- superstructure contradiction and had stated that "It is necessary to acknowledge contradictions which arise be- tween the base and superstructure...under socialism." Cf. his Bazis i nadstroika v sovetskom obshchestve (Base and Superstructure in Soviet Society), Publishing House of the Academy of Sciences USSR, Moscow, 1954, p. 325.
 
-23. Ai Siqi: "The Contradiction between Productive Forces and Relations of Production and Contradictions Among the People," Che-hsueh Yen-chiu, No. 3, 15 June 1958.
+23. Ai Siqi: "The Contradiction between Productive Forces and Relations of Production and Contradictions Among the People," Che-hsueh Yen-qiu, No. 3, 15 June 1958.
 
-24. Pang Zunian: "Some Thoughts on Chairman Mao's Theory of Two Kinds of Contradictions Viewed from the Marxist Theory of State," Che-hsueh Yen-chiu, No. 3, 15 June 1958.
+24. Pang Zunian: "Some Thoughts on Chairman Mao's Theory of Two Kinds of Contradictions Viewed from the Marxist Theory of State," Che-hsueh Yen-qiu, No. 3, 15 June 1958.
 
 25. Mao Zedong: On the Problem of the Correct Handling..., op. cit., p. 4.
 
-26. Sun Tingguo: "A Tremendous Development of the Law of Marxist Dialectics," Che-hsueh Yen-chiu, op. cit.
+26. Sun Tingguo: "A Tremendous Development of the Law of Marxist Dialectics," Che-hsueh Yen-qiu, op. cit.
 
-27. Che-hsueh Yen-chiu, Statement of the Editorial Board, No. 4., August 1957.
+27. Che-hsueh Yen-qiu, Statement of the Editorial Board, No. 4., August 1957.
 
 28. Mao Zedong: On the Problem of the Correct Handling..., op. cit., p. 4.
 

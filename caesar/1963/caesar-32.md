@@ -72,7 +72,7 @@ The measures of a military-related nature which the Soviets have seen fit to tak
 
 (d) foster, in general, a policy of containing the spread of Chinese influence in the underdeveloped areas of the world;
 
-(e) take measures to strengthen the security of borders with China, particularly critical areas like Vladivostok that might be vulnerable to Chinese attack and that may be targets of Chinese long-range irredentism; with the same end in view, encourage anti-Chinese feeling among border peoples in Soviet Central Asia and, in a lower key, subvert border populations in Sinkiang, Inner Mongolia and Manchuria;
+(e) take measures to strengthen the security of borders with China, particularly critical areas like Vladivostok that might be vulnerable to Chinese attack and that may be targets of Chinese long-range irredentism; with the same end in view, encourage anti-Chinese feeling among border peoples in Soviet Central Asia and, in a lower key, subvert border populations in Xinjiang, Inner Mongolia and Manchuria;
 
 (f) isolate China and her followers militarily and economically from the rest of the bloc, changing in substance if not in form the Sino-Soviet military alliance;
 
@@ -172,7 +172,7 @@ The Soviet policy of slowing down China's progress toward becoming a military-in
 
 The Border Problem
 
-Soviet concern over the Sino-Soviet borders long antedates the ideological polemic between Beijing and Moscow. The Soviets since World War II have kept sizeable ground forces in several areas near the Chinese border--and have strengthened those forces in recent years. The Soviets have evidently long been aware that the Chinese might harbor expansionist ambitions, and have of late been given strong reason by the Chinese to fear and take precautionary measures against possible Chinese incursion in Soviet frontier areas. A number of border incidents have probably served to heighten Soviet suspicion of Beijing's intentions. In 1960 [REDACTED] reported an incursion by armed Chinese from Sinkiang into the Kirgiz SSR. [REDACTED]
+Soviet concern over the Sino-Soviet borders long antedates the ideological polemic between Beijing and Moscow. The Soviets since World War II have kept sizeable ground forces in several areas near the Chinese border--and have strengthened those forces in recent years. The Soviets have evidently long been aware that the Chinese might harbor expansionist ambitions, and have of late been given strong reason by the Chinese to fear and take precautionary measures against possible Chinese incursion in Soviet frontier areas. A number of border incidents have probably served to heighten Soviet suspicion of Beijing's intentions. In 1960 [REDACTED] reported an incursion by armed Chinese from Xinjiang into the Kirgiz SSR. [REDACTED]
 
 More border incidents occurred in spring and summer of 1962. [REDACTED]
 
@@ -182,7 +182,7 @@ The Soviets now maintain just under ten percent of [REDACTED] combat-ready force
 
 *The paragraphs on the deployment and exercises of Soviet forces in the Far East were prepared with the help of the Military Division of OCI. recent months deployed new air defense radar units near the Manchurian border and along the Soviet-Mongolian border. This pattern of deployment reflects a felt need in the USSR to increase coverage of aircraft approaching from the direction of China.
 
-In March 1962 a Soviet field training exercise countered an attack from across the Manchurian border southward into the Lake Khanka area of the Primorskiy Kray. This is an area which Russia acquired by the Treaty of Peking in 1865, which the Chinese have threatened to abrogate. Because large Soviet ground force exercises almost invariably are conducted on the terrain and along the area anticipated under wartime conditions and under as realistic conditions as possible, it appears that the exercise envisaged a Chinese Communist drive from the north toward Vladivostok.
+In March 1962 a Soviet field training exercise countered an attack from across the Manchurian border southward into the Lake Khanka area of the Primorskiy Kray. This is an area which Russia acquired by the Treaty of Beijing in 1865, which the Chinese have threatened to abrogate. Because large Soviet ground force exercises almost invariably are conducted on the terrain and along the area anticipated under wartime conditions and under as realistic conditions as possible, it appears that the exercise envisaged a Chinese Communist drive from the north toward Vladivostok.
 
 While this was the first firm indication that training of this scope and nature takes place, there are suggestions that a wariness on the part of Soviet military planners as to China's intentions has existed for several years.
 

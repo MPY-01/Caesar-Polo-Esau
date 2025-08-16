@@ -22,7 +22,7 @@ Copy No. 101
 
 CURRENT INTELLIGENCE STAFF STUDY
 
-MAO TSE-TUNG AND HISTORICAL MATERIALISM
+MAO ZEDONG AND HISTORICAL MATERIALISM
 
 I. REVOLUTION
 
@@ -36,7 +36,7 @@ OFFICIAL USE ONLY OFFICIAL USE ONLY
 
 CURRENT INTELLIGENCE STAFF STUDY
 
-MAO TSE-TUNG AND HISTORICAL MATERIALISM
+MAO ZEDONG AND HISTORICAL MATERIALISM
 
 I. REVOLUTION
 
@@ -54,7 +54,7 @@ Subsequently, Mao made two or perhaps three contributions to the theory of revol
 
 The Chinese Communists believe that Mao's contributions to the theory of revolution--whether false, true, or platitiudinous--are applicable to other backward countries. For example, the gloss on Mao's selected works contends that other "colonial peoples," holding rural base areas, can wage a long war to encircle the cities and win a total victory, just as the Chinese Communists had done.
 
-OFFICIAL USE ONLY OFFICIAL USE ONLY MAO TSE-TUNG AND HISTORICAL MATERIALISM
+OFFICIAL USE ONLY OFFICIAL USE ONLY MAO ZEDONG AND HISTORICAL MATERIALISM
 
 I. REVOLUTION
 
@@ -72,17 +72,17 @@ Chinese Communist writers have agreed with Soviet writers that Mao Zedong used L
 
 analysis of the Chinese revolution. Thus Zhang Ruxin states in 1953 that in the period of the First Revolutionary Civil War (1924-1927), "Comrade Mao Zedong...the faithful student and comrade-in-arms of Stalin, upheld the standpoint of Lenin and Stalin on problems of the revolution in China." (4)
 
-Chang, however, implies that there was an element of originality in Mao's analysis: "in 1926 (the time of the publication of Stalin's Prospects of the Chinese Revolution), Comrade Mao Zedong published his Analysis, in which he used as a basis the theories of Lenin and Stalin to arrive at a similar conclusion with that of Stalin on the fundamental problems of the Chinese revolution." (5) That is, Chang seems to feel that any careful Communist reader will know that Mao's Analysis was written before Stalin's Prospects, as these works were published in March 1926 and November 1926 respectively.
+Zhang, however, implies that there was an element of originality in Mao's analysis: "in 1926 (the time of the publication of Stalin's Prospects of the Chinese Revolution), Comrade Mao Zedong published his Analysis, in which he used as a basis the theories of Lenin and Stalin to arrive at a similar conclusion with that of Stalin on the fundamental problems of the Chinese revolution." (5) That is, Zhang seems to feel that any careful Communist reader will know that Mao's Analysis was written before Stalin's Prospects, as these works were published in March 1926 and November 1926 respectively.
 
-Chang's implied claim that Mao was an independent thinker on revolution in 1926 is supported by politburo alternate Chen Boda, who insists that, "Both in 1927 and afterwards ...opportunists...obstructed the dissemination inside the Chinese party of Stalin's many works on the Chinese question. There were also language difficulties and the counterrevolutionary blockade. For these reasons, many comrades in our party who were actually leading the Chinese revolution did not have an opportunity to make a systematic study of Stalin's many works on China...Comrade Mao Zedong was also one of them. It was only after the cheng feng movement in 1942 that Stalin's works on China were systematically edited by our party...but despite these obstacles in dissemination, Comrade Mao Zedong has been able to reach the same conclusions as Stalin on many fundamental problems through his independent thinking." (6) Another writer says that only Stalin's Problems of the Chinese Revolution of April 1927 was "published and circulated" in China at some unspecified date between 1927 and 1936 "under conditions of bitter fighting and White terror." (7)
+Zhang's implied claim that Mao was an independent thinker on revolution in 1926 is supported by politburo alternate Chen Boda, who insists that, "Both in 1927 and afterwards ...opportunists...obstructed the dissemination inside the Chinese party of Stalin's many works on the Chinese question. There were also language difficulties and the counterrevolutionary blockade. For these reasons, many comrades in our party who were actually leading the Chinese revolution did not have an opportunity to make a systematic study of Stalin's many works on China...Comrade Mao Zedong was also one of them. It was only after the zheng feng movement in 1942 that Stalin's works on China were systematically edited by our party...but despite these obstacles in dissemination, Comrade Mao Zedong has been able to reach the same conclusions as Stalin on many fundamental problems through his independent thinking." (6) Another writer says that only Stalin's Problems of the Chinese Revolution of April 1927 was "published and circulated" in China at some unspecified date between 1927 and 1936 "under conditions of bitter fighting and White terror." (7)
 
-But neither Chang nor Chen makes any reference to the fact that the real tactical policies, and the theoretical justifications of these policies, were sent to China in the form of numerous Comintern directives with Stalin's approval. (8)
+But neither Zhang nor Chen makes any reference to the fact that the real tactical policies, and the theoretical justifications of these policies, were sent to China in the form of numerous Comintern directives with Stalin's approval. (8)
 
 OFFICIAL USE ONLY OFFICIAL USE ONLY
 
 "Leadership of the Proletariat"
 
-Chen Boda claims that Mao "consistently adhered to... the Lenin-Stalin theory concerning the leadership of the proletariat and developed this theory in a concrete manner." (9) But how had Mao had done this, Chen never informs us. Zhang Ruxin implies that Mao developed this theory in Analysis by pointing out that, "The national bourgeoisie's aim of establishing a state under its own rule is impracticable." (10) Chang continues: "The leader of the Chinese bourgeois-democratic revolution against imperialism and feudalism will not be the national bourgeoisie, but the proletariat," as this is a "bourgeois-democratic revolution of a new type." (11) To settle the matter decisively, he quotes from Analysis: "The leading force in our revolution is the industrial proletariat."
+Chen Boda claims that Mao "consistently adhered to... the Lenin-Stalin theory concerning the leadership of the proletariat and developed this theory in a concrete manner." (9) But how had Mao had done this, Chen never informs us. Zhang Ruxin implies that Mao developed this theory in Analysis by pointing out that, "The national bourgeoisie's aim of establishing a state under its own rule is impracticable." (10) Zhang continues: "The leader of the Chinese bourgeois-democratic revolution against imperialism and feudalism will not be the national bourgeoisie, but the proletariat," as this is a "bourgeois-democratic revolution of a new type." (11) To settle the matter decisively, he quotes from Analysis: "The leading force in our revolution is the industrial proletariat."
 
 This is merely Lenin's view of proletarian leadership in a revolution against feudalism--one of his revisions of Marx and Engels. According to Marx and Engels, revolution in modern times will progress in two distinct stages: first, a "bourgeois democratic" revolution places the bourgeoisie in power after an attack upon feudalism and monarchy; and, second, a "socialist" revolution slowly ripens and overthrows the bourgeoisie, establishing a dictatorship of the proletariat. Thus Engels says in 1848: "Fight on bravely then, gentlemen of capital. We need your help: We need even your rule upon occasions. For it is you who must clear from our path the relics of the Middle Ages and of absolute monarchy. You must abolish monarchy, you must centralize, you must change the more or less destitute classes into real proletarians--recruits for us. It is your factories and trade connections that must lay the foundations for the liberation of the proletariat. Your reward shall be a brief period of rule. You shall dictate laws, and bask in the sun of your own majesty. But remember, 'The hangman's foot is upon the threshold.'" (12)
 
@@ -98,11 +98,11 @@ When, therefore, Satlin in May 1925 calls on students in the University of the T
 
 proletariat as the "leading force" in the bourgeois-democratic revolution, they are not expounding a new idea.
 
-Returning to Chang's and Chen's claims, they are open to another objection: at no point in the original 1926 version of Analysis does Mao designate the proletariat as the "leading" force. Why not? Because Mao and the other Chinese Communist leaders at that time were carrying out Comintern directives, which designated the Kuomintang (KMT) as a bloc of four classes and as the "leader" of China's democratic revolution. The sentence which Chang is emphatic in quoting-- "The leading force in our revolution is the industrial proletariat"--was inserted into the 1951 version of Analysis. (22)
+Returning to Zhang's and Chen's claims, they are open to another objection: at no point in the original 1926 version of Analysis does Mao designate the proletariat as the "leading" force. Why not? Because Mao and the other Chinese Communist leaders at that time were carrying out Comintern directives, which designated the Kuomintang (KMT) as a bloc of four classes and as the "leader" of China's democratic revolution. The sentence which Zhang is emphatic in quoting-- "The leading force in our revolution is the industrial proletariat"--was inserted into the 1951 version of Analysis. (22)
 
 The Importance of the Peasants
 
-Zhang Ruxin also claims that Mao solved the problem of allies in the Chinese revolution. Chang states that, "Comrade Mao Zedong developed Lenin's and Stalin's directives on the special and important role of the peasant question in colonial and semicolonial revolutionary movements, making a complete estimate of the peasants' revolutionary attitude. He said that the poor and middle peasants, who comprise more than 80 percent of China's population, are the most important and reliable ally of the proletariat in the democratic revolution." (23) Analysis (March 1926) and Report of an Investigation Into the Peasant Movement in Hunan (March 1927) Thereafter, Report, Chang continues, contain Mao's contribution.
+Zhang Ruxin also claims that Mao solved the problem of allies in the Chinese revolution. Zhang states that, "Comrade Mao Zedong developed Lenin's and Stalin's directives on the special and important role of the peasant question in colonial and semicolonial revolutionary movements, making a complete estimate of the peasants' revolutionary attitude. He said that the poor and middle peasants, who comprise more than 80 percent of China's population, are the most important and reliable ally of the proletariat in the democratic revolution." (23) Analysis (March 1926) and Report of an Investigation Into the Peasant Movement in Hunan (March 1927) Thereafter, Report, Zhang continues, contain Mao's contribution.
 
 In Analysis, Mao says that, "The overwhelming majority of the semitenant peasants, together with the poor peasants, constitute a very large section of the masses in the countryside. The 'peasant problem' is essentially their problem." (24) Mao centers his attention on the poor peasants even more forcefully in Report, the most striking thing he ever wrote:
 
@@ -110,7 +110,7 @@ The main force in the countryside which has always put up the bitterest fight is
 
 attack their strongholds without the slightest hesitation.... They are the backbone of the Peasant Association, the vanguard in overthrowing the feudal forces and the foremost heroes who have accomplished the great revolutionary undertaking left unaccomplished for many years. Without the poor peasants (the 'riffraff' as the gentry call them) it would never have been possible to bring about in the countryside the present state of revolution, to overthrow the local bullies and the bad gentry, or to complete the democratic revolution. Being the most revolutionary, the poor peasants have won the leadership in the Peasant Association.... This leadership of the poor peasants is absolutely necessary. Without the poor peasants there can be no revolution. To reject them is to reject the revolution. To attack them is to attack the revolution. The general direction they have taken in the revolution has never been wrong. [emphasis in original 1926 Report] (25)
 
-According to Chang, therefore, Mao demonstrated originality by maintaining that (1) revolutions in backward countries (such as China) are primarily peasant revolutions and (2) the poor peasants are the most important force and reliable ally in these revolutions.
+According to Zhang, therefore, Mao demonstrated originality by maintaining that (1) revolutions in backward countries (such as China) are primarily peasant revolutions and (2) the poor peasants are the most important force and reliable ally in these revolutions.
 
 1. Revolutions in Backward Countries Are Primarily Peasant Revolutions
 
@@ -126,7 +126,7 @@ The most important feature of backward countries is that the precapitalist relat
 
 Actually, despite Lenin's directives on the importance of peasant revolutions for backward countries, most of the very early leaders of the Chinese Communist Party (CCP) directed their activities toward organizing the urban working class, which was small in numbers. (28) But at least one prominent Chinese Communist leader, Peng Pai, who in the late 1920's became a politburo member, carried out Lenin's instruction to organize peasant Soviets.
 
-OFFICIAL USE ONLY In 1921, one year after he became a member of the CCP, Peng Pai went to the Kwangtung countryside to carry out "organization and propaganda" work among the peasants. He organized the first village peasants' association in China in Haikfeng province which, by September 1922, had enrolled more than 500 members. On 1 January 1923, the Haifeng County Peasants' Association was formally established with a membership of about 20,000 families of 100,000 persons, or onequarter of the population of the county. By mid-1923, he established the Kwangtung Provincial Peasants' Association and raised the slogan, "Down with the landowners! Long live the peasants!" Demands for reduction of land rent became demands for its total abolition. Peasant struggles against landlords and local officials spread throughout Kwangtung Province and into Hupeh and Hunan. Peasant associations were firmly established in Honan by September 1925. In Hunan, by late November 1926, there were 54 hsien, with a total registered membership in the peasants associations of 1,071,137. By January 1927--when Mao began his investigation--this number exceeded 2,000,000.(29) Peng Pai set up the first peasant Soviet in China--the Haifeng Soviet Republic of Kwangtung--in November 1927. (30)
+OFFICIAL USE ONLY In 1921, one year after he became a member of the CCP, Peng Pai went to the Guangdong countryside to carry out "organization and propaganda" work among the peasants. He organized the first village peasants' association in China in Haikfeng province which, by September 1922, had enrolled more than 500 members. On 1 January 1923, the Haifeng County Peasants' Association was formally established with a membership of about 20,000 families of 100,000 persons, or onequarter of the population of the county. By mid-1923, he established the Guangdong Provincial Peasants' Association and raised the slogan, "Down with the landowners! Long live the peasants!" Demands for reduction of land rent became demands for its total abolition. Peasant struggles against landlords and local officials spread throughout Guangdong Province and into Hubei and Hunan. Peasant associations were firmly established in Honan by September 1925. In Hunan, by late November 1926, there were 54 hsien, with a total registered membership in the peasants associations of 1,071,137. By January 1927--when Mao began his investigation--this number exceeded 2,000,000.(29) Peng Pai set up the first peasant Soviet in China--the Haifeng Soviet Republic of Guangdong--in November 1927. (30)
 
 Peasant revolution was rapidly developing in the rural areas when the KMT began its own revolutionary activities among the peasants in 1924. In August 1926, the KMT Peasant Department published its declaration of Current Tactics for the Peasant Movement in Hunan, which extensively discussed policies for expanding and strengthening Hunan's peasant associations, (31) especially among the "poor peasants." Mao did not go out to inspect these Hunan associations for the Central Committee of the CCP until early 1927, when he was also training activists for the peasant movement for the KMT.
 
@@ -156,7 +156,7 @@ Similarly, Peng Pai's reports of experiences in organizing the first peasants' a
 
 In October 1951, however, when the Chinese Communists were laboring to build Mao Zedong's prestige as an eminent theorist, the emphasis on reportorial accuracy was replaced. The new emphasis was on doctrinal maturity, on theoretical excellence. What in March 1927, and in the years immediately following, was viewed as a good on-the-spot account of the Hunan peasant revolts, in October 1951 was viewed as a "brilliant" Marxist-Leninist theoretical analysis of the Chinese revolution in general. As such, it was subjected to the test of doctrinal rather than practical accuracy, and as a result, the sentence slighting the "urban dwellers" role in the Hunan revolts was deleted. (41)
 
-A doctrinal content was supplied by insertion. Thus, theorist Li Da claims that, "In the Report, Comrade Mao Tsetung established the theoretical foundation of the workerpeasant alliance." (42) But in the original version of the Report, Mao does not mention the "worker-peasant alliance." Another theorist, Zhu Jiannong, claims that in the Report Mao solved the question of leadership of the peasant revolution. To prove this doctrinal point, Chu cites the following sentence from the Report: "The poor peasants accept most willingly the leadership of the Communist party." (43) But this crucial sentence appears only in the 1951 version of the Report as an insertion; it was not in the 1927 original. For the Comintern had designated the KMT as leader of the national revolution, not the CCP. At the time Mao was working for the KMT as well as for the CCP, and his Report was therefore published not only in the CCP's official organ and in Moscow, but also in the weekly publication of the Central Executive Committee of the KMT. (44)
+A doctrinal content was supplied by insertion. Thus, theorist Li Da claims that, "In the Report, Comrade Mao Tsetung established the theoretical foundation of the workerpeasant alliance." (42) But in the original version of the Report, Mao does not mention the "worker-peasant alliance." Another theorist, Zhu Jiannong, claims that in the Report Mao solved the question of leadership of the peasant revolution. To prove this doctrinal point, Zhu cites the following sentence from the Report: "The poor peasants accept most willingly the leadership of the Communist party." (43) But this crucial sentence appears only in the 1951 version of the Report as an insertion; it was not in the 1927 original. For the Comintern had designated the KMT as leader of the national revolution, not the CCP. At the time Mao was working for the KMT as well as for the CCP, and his Report was therefore published not only in the CCP's official organ and in Moscow, but also in the weekly publication of the Central Executive Committee of the KMT. (44)
 
 The Bourgeoisie Ally
 
@@ -200,7 +200,7 @@ Despite their references to Lenin and Stalin, Soviet writers had paid Mao great 
 
 The idea of revolutionary guerrilla warfare as it was fully developed by Mao Zedong appears to be another contribution to the Marxist-Leninist theory of revolution.
 
-Mao's teacher in guerrilla warfare tactics was Zhu De, whom Major Evans F. Carlson, an early on-the-spot observer of Chinese Red Army tactics, described as "pre-eminent in his field." (61) It is difficult to determine the extent of Mao's debt to Chu on the matter of strategy and tactics. In any case, Chu steps aside:
+Mao's teacher in guerrilla warfare tactics was Zhu De, whom Major Evans F. Carlson, an early on-the-spot observer of Chinese Red Army tactics, described as "pre-eminent in his field." (61) It is difficult to determine the extent of Mao's debt to Zhu on the matter of strategy and tactics. In any case, Zhu steps aside:
 
 We must not absorb foreign countries' theories ...mechanically and regard them as unchanging dogmas. The Great Revolution, the Agrarian Revolution, and the War of Resistance have given birth to a correct military science...it is a military science that has both theory and practice...the many books on warfare written by Comrade Mao Zedong are representative
 
@@ -208,7 +208,7 @@ OFFICIAL USE ONLY OFFICIAL USE ONLY
 
 works of this new military science...the strategy of the people's war is the outstanding result of Comrade Mao Zedong's method of waging war. [REDACTED] emphasis supplies] (62)
 
-This is Chu's tribute to Mao in April 1945..
+This is Zhu's tribute to Mao in April 1945..
 
 To sum up, Mao made at least two contributions to the Marxist-Leninist theory of revolution. These are: the idea of forming rural revolutionary bases which were self-sustaining, and the idea of expanding and systematizing guerrilla warfare tactics.
 
@@ -248,11 +248,11 @@ NOTES
 
 2. Lenin: "On the Revolutionary Phase," Pravda, 21 February 1918, in Collected Works, Volume XXII, p. 265, Third Russian Edition. Stalin's emphasis in the conclusion of the History of the Communist Party of the Soviet Union (B), Short Course, is similar: "Mastering Marxist-Leninist theory means assimilating the substance of this theory and learning to use it in the solution of the practical problems of the revolutionary movement under the varying conditions of the class struggle of the proletariat." [In original] Op. cit., p. 355.
 
-3. Actually, Analysis of the Various Classes [sic] Among the Chinese Peasantry and Their Attitude toward the Revolution, is Mao's first known Marxist-Leninist work. This essay, which was published in the 1 January 1926 issue of Chung-kuo Mung-min (The Chinese Peasant), is not discussed separately in our paper, as it has been incorporated into the larger essay, Analysis of the Various Classes in Chinese Society, which appeared in Chung-kuo Nung-min, published by the KMT Central Executive Committee, Peasant Department, Canton, Number 2, 1 February 1926. The current Chinese Communist date for Analysis is March 1926--the date of its publication in Chung-kuo Ching-nien (Chinese Youth).
+3. Actually, Analysis of the Various Classes [sic] Among the Chinese Peasantry and Their Attitude toward the Revolution, is Mao's first known Marxist-Leninist work. This essay, which was published in the 1 January 1926 issue of Zhong-kuo Mung-min (The Chinese Peasant), is not discussed separately in our paper, as it has been incorporated into the larger essay, Analysis of the Various Classes in Chinese Society, which appeared in Zhong-kuo Nung-min, published by the KMT Central Executive Committee, Peasant Department, Canton, Number 2, 1 February 1926. The current Chinese Communist date for Analysis is March 1926--the date of its publication in Zhong-kuo Jing-nien (Chinese Youth).
 
-4. Zhang Ruxin: "Stalin's Great Theoretical Contributions to the Chinese Revolution," Peking Jen-min Jih-pao, 3 April 1953.
+4. Zhang Ruxin: "Stalin's Great Theoretical Contributions to the Chinese Revolution," Beijing Jen-min Jih-pao, 3 April 1953.
 
-5. Chang: ibid.
+5. Zhang: ibid.
 
 6. Chen Boda: "Stalin and the Chinese Revolution," Chungsu Yu-hao (Sino-Soviet Friendship), 15 December 1949.
 
@@ -272,11 +272,11 @@ OFFICIAL USE ONLY OFFICIAL USE ONLY
 
 Comintern influence was exerted with increasing effectiveness. The Resolution of the First CCP Congress (July 1921) is a short document which rejects compromise with the Nationalists (KMT), but the Decisions of the Second Congress (July 1922) attack "imperialism," drop the non-compromise policy in order to permit Communists to join the KMT, and provide the theoretical rationale that the proletariat must help the bourgeoisie at this stage against "imperialism and feudalism." The hand of the Comintern is unmistakable in the Decisions and in early CCP policy documents.
 
-9. Chen Boda: "Mao Zedong's Theory on the Chinese Revolution Is the Integration of Marxism-Leninism with the Chinese Revolution." Hsueh-hsi (Study), Peking, 1 July 1951.
+9. Chen Boda: "Mao Zedong's Theory on the Chinese Revolution Is the Integration of Marxism-Leninism with the Chinese Revolution." Hsueh-hsi (Study), Beijing, 1 July 1951.
 
-10. Zhang Ruxin: Kuan-yu Mao Zedong Tung-chih tsai Ti-i tzu Kuo-nei Ko-ming Chan-cheng Shih-ch'i ti Liang-pien Chu-tso (On Two Works of Comrade Mao Zedong During the First Revolutionary Civil War Period). Jen-min Chupan She, Peking, September 1953, p. 6. (This pamphlet is the published version of a lecture given by Chang at the Marx-Lenin Academy, Peking, in June 1953).
+10. Zhang Ruxin: Kuan-yu Mao Zedong Tung-chih tsai Ti-i tzu Kuo-nei Ko-ming Chan-zheng Shih-ch'i ti Liang-pien Zhu-tso (On Two Works of Comrade Mao Zedong During the First Revolutionary Civil War Period). Jen-min Chupan She, Beijing, September 1953, p. 6. (This pamphlet is the published version of a lecture given by Zhang at the Marx-Lenin Academy, Beijing, in June 1953).
 
-11. Chang: ibid., pp. 7-8.
+11. Zhang: ibid., pp. 7-8.
 
 12. Engels: "Die Bewegungen von 1847" (The Movements of 1847), in Marx/Engels: Gesamtausgabe (Collected Works), Section I, Volume VI, Marx-Engels Verlag, G.m.b.H., Berlin, 1932, pp. 397-8. (Originally published as an article in the Deutscher Brusseler Zeitung, 23 January 1848, Number 7, pp. 1-2.)
 
@@ -300,9 +300,9 @@ OFFICIAL USE ONLY OFFICIAL USE ONLY
 
 21. Stalin: "The Political Tasks of the University of the Peoples of the East" (18 May 1925), in Works, Volume VII, Foreign Languages Publishing House, Moscow, 1954, p. 151. Peng Shuzhi was one of several Chinese Com- munist theorists who discussed proletarian leadership
 
-OFFICIAL USE ONLY before Mao allegedly did. In his Who Are the Leaders of the Chinese National Revolution? of late 1924, Peng states that the Proletariat is stronger than the industrial bourgeoisie, as it extended to both Chineseowned and foreign-owned industries. The "natural leader" of the revolution, therefore, was not the bourgeoisie but the proletariat. (Cf. Peng Shuzhi, "Chungkuo Ko-ming chih Ken-pen Wen-ti" /Basic Problems of the Chinese Revolution/, in Chung-kuo Ko-ming Wen-ti Lun Wen-chi /A Collection of Essays on Problems of the Chinese Revolution/, Hsin Ching-nien She, Shanghai, 1927, p. 29.)
+OFFICIAL USE ONLY before Mao allegedly did. In his Who Are the Leaders of the Chinese National Revolution? of late 1924, Peng states that the Proletariat is stronger than the industrial bourgeoisie, as it extended to both Chineseowned and foreign-owned industries. The "natural leader" of the revolution, therefore, was not the bourgeoisie but the proletariat. (Cf. Peng Shuzhi, "Chungkuo Ko-ming chih Ken-pen Wen-ti" /Basic Problems of the Chinese Revolution/, in Zhong-kuo Ko-ming Wen-ti Lun Wen-chi /A Collection of Essays on Problems of the Chinese Revolution/, Hsin Jing-nien She, Shanghai, 1927, p. 29.)
 
-22. Mao Zedong: Hsuan-chi (Selected Works), Volume I, Jenmin Chu-pan She, Peking, October 1951, p. 9.
+22. Mao Zedong: Hsuan-chi (Selected Works), Volume I, Jenmin Zhu-pan She, Beijing, October 1951, p. 9.
 
 23. Zhang Ruxin: Op. cit., September 1953, pp. 11-12.
 
@@ -316,11 +316,11 @@ OFFICIAL USE ONLY before Mao allegedly did. In his Who Are the Leaders of the Ch
 
 29. Hua Kang: The Great Chinese Revolution of 1925-1927, Two Volumes, Shanghai, 1931, Chapter 4, Section IV.
 
-30. Peng Pai: "Hai-feng Nung-min Yun-tung Pao-kao" (Report on the Peasant Movement in Haifeng), in Chung-kuo Nungmin (The Chinese Peasant), op. cit., Canton, 1926: Number 1, 1 January; Number 3, 1 March; Number 4, 1 April; and Number 5, 1 May. (Cf. also T. C. Chang: The Peasant Movement in Kwangtung, Shanghai, 1928).
+30. Peng Pai: "Hai-feng Nung-min Yun-tung Pao-kao" (Report on the Peasant Movement in Haifeng), in Zhong-kuo Nungmin (The Chinese Peasant), op. cit., Canton, 1926: Number 1, 1 January; Number 3, 1 March; Number 4, 1 April; and Number 5, 1 May. (Cf. also T. C. Zhang: The Peasant Movement in Guangdong, Shanghai, 1928).
 
-31. Hunan Nung-min Yun-tung Mu-chien ti Tse-lueh (Current Tactics for the Peasant Movement in Hunan), Chung-Kuo Nung-min (The Chinese Peasant), op. cit., Canton, Number 8, 1 August 1926, pp. 30-40.
+31. Hunan Nung-min Yun-tung Mu-chien ti Tse-lueh (Current Tactics for the Peasant Movement in Hunan), Zhong-Kuo Nung-min (The Chinese Peasant), op. cit., Canton, Number 8, 1 August 1926, pp. 30-40.
 
-32. Gan Naiguang: "Shui Shih Kuo-min Ko-ming ti Chu-li Chun?" (What is the Main Force of the National Revolution?), in Chung-kuo Nung-min (The Chinese Peasant), ibid., pp. 9-10. OFFICIAL USE ONLY
+32. Gan Naiguang: "Shui Shih Kuo-min Ko-ming ti Zhu-li Chun?" (What is the Main Force of the National Revolution?), in Zhong-kuo Nung-min (The Chinese Peasant), ibid., pp. 9-10. OFFICIAL USE ONLY
 
 33. "Theses on the Situation in China," adopted by the Seventh Plenum, Executive Committee, Communist International, November-December 1926, Inprecor, Paris, 20 February 1927, The theses limited the Communists to confiscating only the land of "reactionary" militarists and this had the effect of restricting the force and scope of the peasant revolution.
 
@@ -332,7 +332,7 @@ OFFICIAL USE ONLY before Mao allegedly did. In his Who Are the Leaders of the Ch
 
 37. Lenin: ibid., pp. 144-145.
 
-38. Hsiang-tao Chou-pao (Guide Weekly). Shanghai, Number 191, 12 March 1927.
+38. Hsiang-tao Zhou-pao (Guide Weekly). Shanghai, Number 191, 12 March 1927.
 
 39. Revolyutsionnyi Vostok (The Revolutionary East), published by the Scientific Association for the Study of National and Colonial Problems, Moscow, Number 2, 1927.
 
@@ -340,7 +340,7 @@ OFFICIAL USE ONLY before Mao allegedly did. In his Who Are the Leaders of the Ch
 
 OFFICIAL USE ONLY 41. The original sentence states: "To give credit where it is due, if we allot ten points to the accomplish- ments of the democratic revolution, then the achieve- ments of the urban dwellers and the military rate only three, while the remaining seven should go to the peas- ants in their rural revolution." (Cf. Mao Zedong: Hsuan-chi (Selected Works), Ta-chun Shu-tien, Dairen, November 1947, p. 215.)
 
-42. Li Da: "Tu Mao Zedong Tung-chih tsai 1926 Nien chih 1929 Nien ti Ssu-pien Chu-tso" (Read Comrade Mao Tse- tung's Four Works Written Between 1926 and 1929), in Hsueh-hsi "Mao Zedong Hsuan-chi" Ti I Chuan (Read the "Selected Works of Mao Zedong," Volume I, Hsin- chien She Tsa-chih She, Peking, 5 September 1952, p. 37. (Originally in Peking Jen-min Jih-pao, 30 August 1951)
+42. Li Da: "Tu Mao Zedong Tung-chih tsai 1926 Nien chih 1929 Nien ti Ssu-pien Zhu-tso" (Read Comrade Mao Tse- tung's Four Works Written Between 1926 and 1929), in Hsueh-hsi "Mao Zedong Hsuan-chi" Ti I Chuan (Read the "Selected Works of Mao Zedong," Volume I, Hsin- chien She Tsa-chih She, Beijing, 5 September 1952, p. 37. (Originally in Beijing Jen-min Jih-pao, 30 August 1951)
 
 43. Zhu Jiannong: "Tu Hunan Nung-min Yun-tung Kao-cha Pao-kao" (Read Report of an Investigation Into the Peas- ant Movement in Hunan), in ibid., 5 September 1952, pp. 53-54.
 
@@ -354,7 +354,7 @@ OFFICIAL USE ONLY 41. The original sentence states: "To give credit where it is 
 
 48. Mao Zedong: Selected Works, op. cit., Volume I, English Edition, pp. 14-15. 49. The Fourth Congress of the Communist International, London, 1922, p. 221.
 
-50. Chen Boda: op. cit., Peking, 1 July 1951.
+50. Chen Boda: op. cit., Beijing, 1 July 1951.
 
 51. Mao Zedong: Selected Works, op. cit., Volume III, English Edition, p. 85.
 
@@ -362,25 +362,25 @@ OFFICIAL USE ONLY 41. The original sentence states: "To give credit where it is 
 
 53. Mao Zedong: Selected Works, op. cit., Volume I, English Edition, p. 71.
 
-54. Chen Boda: op. cit., Peking, 1 July 1951.
+54. Chen Boda: op. cit., Beijing, 1 July 1951.
 
 55. Chen Boda: ibid.
 
-56. Kuo Hua-jo: "On the Occasion of the 15th Anniversary of the Publication of On Protracted War." Peking Jen-min Jih-pao, 3 June 1953.
+56. Kuo Hua-jo: "On the Occasion of the 15th Anniversary of the Publication of On Protracted War." Beijing Jen-min Jih-pao, 3 June 1953.
 
-57. Mo Wenhua: Peking Jen-min Jih-pao, 23 February 1953. Mo concludes by stating that "The military science of Comrade Mao Zedong is the military science of MarxismLeninism sinified."
+57. Mo Wenhua: Beijing Jen-min Jih-pao, 23 February 1953. Mo concludes by stating that "The military science of Comrade Mao Zedong is the military science of MarxismLeninism sinified."
 
-58. Guan Mengjue: Read "Strategic Problems of China's Revolutionary War." In Study the "Selected Works of Mao Zedong, Volume I." Hsin Chien-she Chu-pan She. Peking 20 January 1952, p. 144.
+58. Guan Mengjue: Read "Strategic Problems of China's Revolutionary War." In Study the "Selected Works of Mao Zedong, Volume I." Hsin Chien-she Zhu-pan She. Beijing 20 January 1952, p. 144.
 
 59. M. Mitin: "First Volume of the Selected Works of Mao Tsetung," Bol'shevik, Number 17, September 1952, p. 67. OFFICIAL USE ONLY 60. I. Plyshevskiy and A. Sobolev: Pravda, 13 June 1953. 61. Major Evans F. Carlson: "The Chinese Army: Its Organiza- tion and Military Efficiency," in Institute of Pacific Relations, Volume 7, Section 3, 6 October 1939, p. 20.
 
-62. Zhu De: Military Report to the 7th Congress, CCP, given 25 April 1945, republished by Foreign Languages Press Peking, 1952, pp. 63-64. According to the Japanese Foreign Office Information Department's 7th report-- The History of the CCP, 1937--Tokyo, 1927, Zhu De wrote Promoting Anti-Japanese Warfare (15 July 1937) and Peng Dehuai wrote On Guerrilla Warfare (summer 1937). Early Chinese Communist sources indicate that Chu also wrote On Guerrilla Warfare (1938), On Anti-Japanese Guerrilla Warfare (1938), Experiences and Lessons gained in the Past Six Months of War of Resistence by the 8th Route Army (1938), and The Problem of Striving for A Quick Decision Victory in the Protracted War of Resistances (1938). Current Chinese Communist publications make no mention of these works suggesting that Zhu De's light has been concealed so that mao's can shine brighter.
+62. Zhu De: Military Report to the 7th Congress, CCP, given 25 April 1945, republished by Foreign Languages Press Beijing, 1952, pp. 63-64. According to the Japanese Foreign Office Information Department's 7th report-- The History of the CCP, 1937--Tokyo, 1927, Zhu De wrote Promoting Anti-Japanese Warfare (15 July 1937) and Peng Dehuai wrote On Guerrilla Warfare (summer 1937). Early Chinese Communist sources indicate that Zhu also wrote On Guerrilla Warfare (1938), On Anti-Japanese Guerrilla Warfare (1938), Experiences and Lessons gained in the Past Six Months of War of Resistence by the 8th Route Army (1938), and The Problem of Striving for A Quick Decision Victory in the Protracted War of Resistances (1938). Current Chinese Communist publications make no mention of these works suggesting that Zhu De's light has been concealed so that mao's can shine brighter.
 
 63. Mao Zedong: Mu-chien Hsing-shih ho Wo-men ti Jen-wu (The Present Situation and Our Tasks), Chieh-fang Seh, Shanghai, June 1948, 1st Edition, p. 28.
 
 64. "Mao Zedong's Report to the Central Committee of the CCP," For a Lasting Peace, For a People's Democracy! 15 January 1948, p. 6.
 
-65. Deng Lichun and Wu Jiang: "Dialectics is the Algebra of Revolution -- Read the Selected Works of Mao Tse- tung, Volume IV," in Hung Chi (Red Flag), Peking Joint Numbers 20-21, 1 November 1960, p. 28.
+65. Deng Lichun and Wu Jiang: "Dialectics is the Algebra of Revolution -- Read the Selected Works of Mao Tse- tung, Volume IV," in Hung Chi (Red Flag), Beijing Joint Numbers 20-21, 1 November 1960, p. 28.
 
 66. Deng Lichun and Wu Jiang: ibid., p. 25.
 

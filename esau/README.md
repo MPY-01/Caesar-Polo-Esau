@@ -22,7 +22,7 @@
 |---|---|---:|---|---|
 | The Chinese Communist Impact On East Germany | [esau-07](./1960/esau-07.md) | 41 | Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-07.pdf) |
 | The Commune, The "Great Leap Forward," And Sino-Soviet Relations (August-December 1958) | [esau-08](./1960/esau-08.md) | 149 | Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-08.pdf) |
-| Mao Tse-Tung On Strategy, 1926-1957 (The Background Of The Sino-Soviet Dispute Of 1957-1960) | [esau-09](./1960/esau-09.md) | 56 | Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-09.pdf) |
+| Mao Zedong On Strategy, 1926-1957 (The Background Of The Sino-Soviet Dispute Of 1957-1960) | [esau-09](./1960/esau-09.md) | 56 | Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-09.pdf) |
 | The Sino-Soviet Dispute On World Communist Strategy (Autumn 1957 - Autumn 1959) | [esau-10](./1960/esau-10.md) | 114 | Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-10.pdf) |
 
 ## 1961
@@ -72,9 +72,9 @@
 | Title | Transcription | Pages | Classification | Original PDF |
 |---|---|---:|---|---|
 | Zanzibar: The Hundred Days' Revolution | [esau-28](./1966/esau-28.md) | 170 | Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-28.pdf) |
-| The Positions Of Hanoi, Peking, And Moscow On The Issue Of Vietnam Negotiations: 1962 To 1966 | [esau-29](./1966/esau-29.md) | 83 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-29.pdf) |
+| The Positions Of Hanoi, Beijing, And Moscow On The Issue Of Vietnam Negotiations: 1962 To 1966 | [esau-29](./1966/esau-29.md) | 83 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-29.pdf) |
 | Asian Communist Employment Of Negotiations As A Political Tactic | [esau-30](./1966/esau-30.md) | 55 | Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-30.pdf) |
-| The Disintegration Of Japanese Communist Relations With Peking | [esau-31](./1966/esau-31.md) | 77 | CONFIDENTIAL | [PDF](https://www.cia.gov/readingroom/docs/esau-31.pdf) |
+| The Disintegration Of Japanese Communist Relations With Beijing | [esau-31](./1966/esau-31.md) | 77 | CONFIDENTIAL | [PDF](https://www.cia.gov/readingroom/docs/esau-31.pdf) |
 
 ## 1967
 
@@ -122,7 +122,7 @@ In The Sino-Sozliet Border Dispute | [esau-44](./1970/esau-44.md) | 101 | Top Se
 | The Fedayeen | [esau-49](./1971/esau-49.md) | 107 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-49.pdf) |
 | The Growth Of The Soviet Commitment In The Middle East | [esau-48](./1971/esau-48.md) | 182 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-48.pdf) |
 | Soviet Thinking About The Danger Of A Sino-Us Rapprochement | [esau-50](./1971/esau-50.md) | 75 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-50.pdf) |
-| Peking And The Burmese Communists: The Perils And Profits Of Insurgency | [esau-52](./1971/esau-52.md) | 140 | Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-52.pdf) |
+| Beijing And The Burmese Communists: The Perils And Profits Of Insurgency | [esau-52](./1971/esau-52.md) | 140 | Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-52.pdf) |
 | The Polish Question: East Germany | [esau-51](./1971/esau-51.md) | 65 | SECRET | [PDF](https://www.cia.gov/readingroom/docs/esau-51.pdf) |
 
 ## 1972

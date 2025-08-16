@@ -18,7 +18,7 @@ ocr_date: '2025-07-22'
 
 [REDACTED]
 
-CURRENT INTELLIGENCE STAFF STUDY MAO TSE-TUNG AND HISTORICAL MATERIALISM IV. THE "TRANSITION TO SOCIALISM" (Reference Title: POLO XII-61)
+CURRENT INTELLIGENCE STAFF STUDY MAO ZEDONG AND HISTORICAL MATERIALISM IV. THE "TRANSITION TO SOCIALISM" (Reference Title: POLO XII-61)
 
 [REDACTED]
 
@@ -26,7 +26,7 @@ Office of Current Intelligence CENTRAL INTELLIGENCE AGENCY [REDACTED] FOR OFFICI
 
 CURRENT INTELLIGENCE STAFF STUDY
 
-MAO TSE-TUNG AND HISTORICAL MATERIALISM
+MAO ZEDONG AND HISTORICAL MATERIALISM
 
 IV. THE "TRANSITION TO SOCIALISM"
 
@@ -60,7 +60,7 @@ Even Khrushchev, no admirer of Chinese practices, has paid a backhanded complime
 
 One interesting sidelight on the development of Mao's policy toward capitalists is that Zhou Enlai claims some of the credit for it. It is most unusual for anyone but Mao to be "creative."
 
-Mao's doctrines on the "transition to socialism," in particular on the means of "buying out" and "transforming" capitalists, are communicated by the Chinese to other Communists with a missionary zeal. The doctrines are said to be of "universal significance"--for Communists in underdeveloped areas and even in the West. This kind of proselytizing has angered the Soviet leaders, who are now attempting to take the wind from Mao's sails by insisting that Marx and Lenin had been the first to discuss the "buying out" policy and by incorporating the policy into the Draft Program of the 22nd Soviet party congress. The Draft Program does not mention Mao in this connection. MAO TSE-TUNG AND HISTORICAL MATERIALISM IV. THE "TRANSITION TO SOCIALISM"
+Mao's doctrines on the "transition to socialism," in particular on the means of "buying out" and "transforming" capitalists, are communicated by the Chinese to other Communists with a missionary zeal. The doctrines are said to be of "universal significance"--for Communists in underdeveloped areas and even in the West. This kind of proselytizing has angered the Soviet leaders, who are now attempting to take the wind from Mao's sails by insisting that Marx and Lenin had been the first to discuss the "buying out" policy and by incorporating the policy into the Draft Program of the 22nd Soviet party congress. The Draft Program does not mention Mao in this connection. MAO ZEDONG AND HISTORICAL MATERIALISM IV. THE "TRANSITION TO SOCIALISM"
 
 In Chapter V. of State and Revolution (August 1917), Lenin makes a distinction between "socialist" society and Communist society in discussing the "transition from capitalism to Communism." Citing Marx's Critique of the Gotha Program (1875), Lenin says that the "political transition period" of which Marx spoke "must undoubtedly be a special stage or epoch" of transition, and this stage, he says, has been designated by Marx as the "first" phase of Communist society. It is, he continues, "generally called socialism."
 
@@ -192,13 +192,13 @@ FOR OFFICIAL USE ONLY The attack suggested that Mao's general line formulation w
 
 Mao's statements made ever since 1934 that the small private sector would be protected and permitted to develop suddenly were revealed to be part of a certain kind of promise, viz. a dialectical process. The early promise of a freely developing small-capitalist economy had been transformed: although the private sector would be "used," it was now to be "restricted and reformed."
 
-That this change was unexpected--that is, that New Democracy was to be replaced by the "transition to socialism"--is also attested to by Zhu Guangqian, the seemingly bewildered professor of the Western Language Department, Peking University, when he wrote the following:
+That this change was unexpected--that is, that New Democracy was to be replaced by the "transition to socialism"--is also attested to by Zhu Guangqian, the seemingly bewildered professor of the Western Language Department, Beijing University, when he wrote the following:
 
 Upon studying the general line, I heard that the period of transition to socialism actually had begun when the PRC was founded. I also heard that the general line was not suddenly espoused. [REDACTED] It was mentioned by Chairman Mao in On New Democracy and On the People's Democratic Dictatorship and clearly was stipulated in the Common Program. I read these documents again and found that the general line governing the transition from the New Democracy stage to socialism clearly had been outlined. I had read these essays many times in the past, but now I know that I had failed to understand them. I did not grasp the essence of New Democracy and failed to appreciate that it was a period of transition to socialism. (19)
 
-Reading Professor Chu's confession in a manner that does justice to his intelligence and literary ability, one concludes that he was only seemingly bewildered and was in fact writing between the lines. That is, Professor Chu apparently was informing careful readers that he "failed to appreciate" that the New Democracy was a period of "transition to socialism" precisely because the documents he cites are ambiguous on the matter. FOR OFFICIAL USE ONLY
+Reading Professor Zhu's confession in a manner that does justice to his intelligence and literary ability, one concludes that he was only seemingly bewildered and was in fact writing between the lines. That is, Professor Zhu apparently was informing careful readers that he "failed to appreciate" that the New Democracy was a period of "transition to socialism" precisely because the documents he cites are ambiguous on the matter. FOR OFFICIAL USE ONLY
 
-He apparently was also telling his readers that in the 1953 directive, Mao for the first time, and in one stroke, had pushed back to October 1949 the starting date for the transition and the completion date for New Democracy. Professor Chu concluded: "I have come to understand that studying is no easy matter. One might have read an essay a number of times and thought its import had been comprehended. Actually, however, one had not grasped it at all."
+He apparently was also telling his readers that in the 1953 directive, Mao for the first time, and in one stroke, had pushed back to October 1949 the starting date for the transition and the completion date for New Democracy. Professor Zhu concluded: "I have come to understand that studying is no easy matter. One might have read an essay a number of times and thought its import had been comprehended. Actually, however, one had not grasped it at all."
 
 The authoritative understanding of the New Democracy society prior to the general line campaign of October 1953 was that it consisted of two stages, the first of which prepared for "socialism," and the second, which made the direct transition to "socialism." This pre-October 1953 concept was attacked by Yao Pengchang, who would merge these stages and blur them. Yao's assertion that the "New Democracy society" is the transitional society" on the road to "socialism"--a point of particular emphasis in general line propaganda--exemplified the new element in the CCP claim of Chinese political and economic progress. It was a claim to the prestige which accrues to a Communist-led state when it proclaims that "building socialism" is the new task at hand.
 
@@ -352,17 +352,17 @@ While conceding that the Chinese view on "peaceful transformation" of small capi
 
 The idea that a capitalist could be made to change his stripes, so to speak, appears to have evolved from Mao's works in the late 1930s and 1940s. Mao speaks repeatedly in this period of "preserving" the capitalist economy in China and of sustaining the alliance with the "patriotic capitalists." But it is difficult to determine just when and how the thought occured to him that the capitalist man could be transformed into the working man.
 
-Zhou Enlai claims some of the credit. During a discussion with former premier of France, Edgar Faure, who was visiting China in 1956, Chou recalled his own stay in France between FOR OFFICIAL USE ONLY
+Zhou Enlai claims some of the credit. During a discussion with former premier of France, Edgar Faure, who was visiting China in 1956, Zhou recalled his own stay in France between FOR OFFICIAL USE ONLY
 
-1924 and 1927. He had worked there as a student and as a manual worker, in Paris and Rouen. Chou stated:
+1924 and 1927. He had worked there as a student and as a manual worker, in Paris and Rouen. Zhou stated:
 
 It was while I was amongst you that I was converted to Communism. I observed, I shared the life of my fellow-workers and I came to the conclusion that it was not possible to transform the wage earners into capitalists, but that it was possible to transform the capitalists into wage earners. (42)
 
-Mr. Faure says that this was a jest on Chou's part, but Chou's statement stands as an explicit and unambiguous assertion of a bit of personal creativity which is very unusual among Chinese leaders other than Mao.
+Mr. Faure says that this was a jest on Zhou's part, but Zhou's statement stands as an explicit and unambiguous assertion of a bit of personal creativity which is very unusual among Chinese leaders other than Mao.
 
-Chou's "jest" appears as a slender reed beside the claims made for Mao regarding transition--claims which proliferated in 1960. According to his eulogists, Mao had shown originality on all aspects of the "transition to socialism." No other Chinese leader is given credit for any of the policies dealing with the construction of "socialism."
+Zhou's "jest" appears as a slender reed beside the claims made for Mao regarding transition--claims which proliferated in 1960. According to his eulogists, Mao had shown originality on all aspects of the "transition to socialism." No other Chinese leader is given credit for any of the policies dealing with the construction of "socialism."
 
-As few doctrines in the world today, Mao's doctrines on "buying out" during the "transition to socialism" command a devoted service. The practical way of "buying out" capitalists and of transforming them into wage earners is communicated by the Chinese Communists to other Communists with the passionate zeal of a missionary who sets out to conquer a new world for his creed. In the words of Tao Zhu, first secretary of the Kwangtung Provincial Party Committee,
+As few doctrines in the world today, Mao's doctrines on "buying out" during the "transition to socialism" command a devoted service. The practical way of "buying out" capitalists and of transforming them into wage earners is communicated by the Chinese Communists to other Communists with the passionate zeal of a missionary who sets out to conquer a new world for his creed. In the words of Tao Zhu, first secretary of the Guangdong Provincial Party Committee,
 
 Peaceful transformation of the capitalists' enterprises has now been attained in China. China's experience in this matter is of universal significance. The truth underlying this experience is not limited to colonial and semi-colonial countries. We are aware that with the East Wind prevailing over the West Wind, revolution will triumph in several capitalist countries and the big capitalists will be deprived of their rights. At that time, it is entirely possible for these countries to adopt the guideline of peaceful redemption toward the middle ["national"] and small capitalists. (43)
 
@@ -376,9 +376,9 @@ FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY
 
 2. History of the Communist Party of the Soviet Union (B.), Short Course (1938), edited by a commission of the Central Committee of the CPSU (B.), International Publishers, New York, 1939, p. 275.
 
-3. Wu Chuanzhe: "Peaceful Transformation of Capitalist In- dustrial and Commercial Enterprises is a Special Form of Class Struggle," Che-hsueh Yen-chiu (Philo- sophical Research), No. 1, Beijing, 1 March 1956.
+3. Wu Chuanzhe: "Peaceful Transformation of Capitalist In- dustrial and Commercial Enterprises is a Special Form of Class Struggle," Che-hsueh Yen-qiu (Philo- sophical Research), No. 1, Beijing, 1 March 1956.
 
-4. Wu Chuanzhe: "The Basic Class Contradiction During China's Transition to Socialism," Che-hsueh Yen-chiu, No. 1, June 1955.
+4. Wu Chuanzhe: "The Basic Class Contradiction During China's Transition to Socialism," Che-hsueh Yen-qiu, No. 1, June 1955.
 
 5. Lenin: Selected Works, Volume IX, International Publishers, New York, 1937, p. 285.
 
@@ -394,7 +394,7 @@ FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY
 
 11. East Berlin National Zeitung, 14 May 1960.
 
-12. Guan Datong: The Socialist Transformation of Capitalist Industry and Commerce in China, Foreign Languages Press, Peking, 1960.
+12. Guan Datong: The Socialist Transformation of Capitalist Industry and Commerce in China, Foreign Languages Press, Beijing, 1960.
 
 FOR OFFICIAL USE ONLY 13. Mao Zedong: Selected Works, Volume I, International Publishers, New York, 1954, p. 144.
 
@@ -434,9 +434,9 @@ FOR OFFICIAL USE ONLY 13. Mao Zedong: Selected Works, Volume I, International Pu
 
  In 1960, the Chinese extended the relevance of their "model" beyond "semi-colonial" countries to include capitalist states. (Cf. Tao Zhu: note 42 below.)
 
-31. Wu Chuanzhe: "Peaceful Transformation of Capitalist Indus- trial and Commercial Enterprises is a Special Form of Class Struggle," Che-hsueh Yen-chiu, op. cit.
+31. Wu Chuanzhe: "Peaceful Transformation of Capitalist Indus- trial and Commercial Enterprises is a Special Form of Class Struggle," Che-hsueh Yen-qiu, op. cit.
 
-32. Shu Weiguang: "The Gradual Leap in China's Transition Period," Che-hsueh Yen-chiu, No. 1, June 1955.
+32. Shu Weiguang: "The Gradual Leap in China's Transition Period," Che-hsueh Yen-qiu, No. 1, June 1955.
 
 33. Liu Shaoqi: "The Political Report of the Central Com- mittee of the CCP to the 8th National Congress of the FOR OFFICIAL USE ONLY
 

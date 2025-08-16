@@ -4,17 +4,17 @@
 
 | Title | Transcription | Pages | Classification | Original PDF |
 |---|---|---:|---|---|
-| Mao Tse-Tung And Historical Materialism | [polo-01](./1961/polo-01.md) | 32 | Official Use Only | [PDF](https://www.cia.gov/readingroom/docs/polo-01.pdf) |
-| Mao Tse-Tung And Historical Materialism Ii. The State Form ("People'S Democratic Dictatorship") | [polo-02](./1961/polo-02.md) | 25 | Official Use Only | [PDF](https://www.cia.gov/readingroom/docs/polo-02.pdf) |
-| Mao Tse-Tung And Historical Materialism Iv. The "Transition To Socialism" | [polo-03](./1961/polo-03.md) | 34 | Official Use Only | [PDF](https://www.cia.gov/readingroom/docs/polo-03.pdf) |
-| Mao Tse-Tung And Historical Materialism, Iii. "Contradictions" In A "Socialist" Society | [polo-04](./1961/polo-04.md) | 25 | Official Use Only | [PDF](https://www.cia.gov/readingroom/docs/polo-04.pdf) |
+| Mao Zedong And Historical Materialism | [polo-01](./1961/polo-01.md) | 32 | Official Use Only | [PDF](https://www.cia.gov/readingroom/docs/polo-01.pdf) |
+| Mao Zedong And Historical Materialism Ii. The State Form ("People'S Democratic Dictatorship") | [polo-02](./1961/polo-02.md) | 25 | Official Use Only | [PDF](https://www.cia.gov/readingroom/docs/polo-02.pdf) |
+| Mao Zedong And Historical Materialism Iv. The "Transition To Socialism" | [polo-03](./1961/polo-03.md) | 34 | Official Use Only | [PDF](https://www.cia.gov/readingroom/docs/polo-03.pdf) |
+| Mao Zedong And Historical Materialism, Iii. "Contradictions" In A "Socialist" Society | [polo-04](./1961/polo-04.md) | 25 | Official Use Only | [PDF](https://www.cia.gov/readingroom/docs/polo-04.pdf) |
 | The Chinese Communist Leadership, 1958-1961 | [polo-05](./1961/polo-05.md) | 126 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-05.pdf) |
 
 ## 1962
 
 | Title | Transcription | Pages | Classification | Original PDF |
 |---|---|---:|---|---|
-| The Decline Of Mao Tse-Tung | [polo-06](./1962/polo-06.md) | 32 | Confidential | [PDF](https://www.cia.gov/readingroom/docs/polo-06.pdf) |
+| The Decline Of Mao Zedong | [polo-06](./1962/polo-06.md) | 32 | Confidential | [PDF](https://www.cia.gov/readingroom/docs/polo-06.pdf) |
 
 ## 1963
 
@@ -72,16 +72,16 @@
 
 | Title | Transcription | Pages | Classification | Original PDF |
 |---|---|---:|---|---|
-| Lin Piao And The Great Helmsman | [polo-29](./1970/polo-29.md) | 31 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-29.pdf) |
+| Lin Biao And The Great Helmsman | [polo-29](./1970/polo-29.md) | 31 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-29.pdf) |
 | The Cultural Revolution And The New Political System In China | [polo-30](./1970/polo-30.md) | 29 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-30.pdf) |
-| Lin Piao And The Structure Of Power | [polo-31](./1970/polo-31.md) | 74 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-31.pdf) |
+| Lin Biao And The Structure Of Power | [polo-31](./1970/polo-31.md) | 74 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-31.pdf) |
 
 ## 1971
 
 | Title | Transcription | Pages | Classification | Original PDF |
 |---|---|---:|---|---|
 | The Failure Of Maoist Ideology In Foreign Policy | [polo-32](./1971/polo-32.md) | 11 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-32.pdf) |
-| Peking-Taipei Contacts: The Question Of A Possible "Chinese Solution" | [polo-34](./1971/polo-34.md) | 64 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-34.pdf) |
+| Beijing-Taipei Contacts: The Question Of A Possible "Chinese Solution" | [polo-34](./1971/polo-34.md) | 64 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-34.pdf) |
 | The International Liaison Department Of The Chinese Communist Party | [polo-33](./1971/polo-33.md) | 37 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-33.pdf) |
 
 ## 1972
@@ -89,11 +89,11 @@
 | Title | Transcription | Pages | Classification | Original PDF |
 |---|---|---:|---|---|
 | Missing Chinese Military Leaders | [polo-35](./1972/polo-35.md) | 29 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-35.pdf) |
-| Policy Issues In The Purge Of Lin Piao | [polo-36](./1972/polo-36.md) | 65 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-36.pdf) |
+| Policy Issues In The Purge Of Lin Biao | [polo-36](./1972/polo-36.md) | 65 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-36.pdf) |
 
 ## 1973
 
 | Title | Transcription | Pages | Classification | Original PDF |
 |---|---|---:|---|---|
-| Peking'S Support Of Insurgencies In Southeast Asia | [polo-37](./1973/polo-37.md) | 145 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-37.pdf) |
+| Beijing'S Support Of Insurgencies In Southeast Asia | [polo-37](./1973/polo-37.md) | 145 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-37.pdf) |
 | China'S Regional And Provincial Leaders The Purge Of The Military, The Rise Of Old Party Cadres | [polo-38](./1973/polo-38.md) | 126 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-38.pdf) |

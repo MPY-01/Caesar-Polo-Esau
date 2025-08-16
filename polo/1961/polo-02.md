@@ -16,7 +16,7 @@ ocr_date: '2025-07-22'
 
 CURRENT INTELLIGENCE STAFF STUDY
 
-MAO TSE-TUNG AND HISTORICAL MATERIALISM
+MAO ZEDONG AND HISTORICAL MATERIALISM
 
 II. THE STATE FORM ("PEOPLE'S DEMOCRATIC DICTATORSHIP") (Reference Title: POLO XI-61)
 
@@ -28,7 +28,7 @@ FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY
 
 CURRENT INTELLIGENCE STAFF STUDY
 
-MAO TSE-TUNG AND HISTORICAL MATERIALISM
+MAO ZEDONG AND HISTORICAL MATERIALISM
 
 II. THE STATE FORM ("PEOPLE'S DEMOCRATIC DICTATORSHIP")
 
@@ -52,7 +52,7 @@ The Chinese Communists themselves have sometimes contributed to obscuring Mao's 
 
 FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY
 
-MAO TSE-TUNG AND HISTORICAL MATERIALISM
+MAO ZEDONG AND HISTORICAL MATERIALISM
 
 II. THE STATE FORM ("PEOPLE'S DEMOCRATIC DICTATORSHIP")
 
@@ -68,7 +68,7 @@ FOR OFFICIAL USE ONLY It was Lenin who, in 1905, departed from Marx's idea of th
 
 I think that the future revolutionary government in China will in general resemble in character the government we used to talk about in our country in 1905, that is, something in the nature of a democratic dictatorship of the proletariat and peasantry, with the difference, however, that it will be first and foremost an anti-imperialist government. This shall be an interim state power for China to attain non-capitalist development. (9)
 
-This idea of workers' and peasants' political power, originally Lenin's, was not only used by Mao in October 1928 and January 1930, but also appears in the 1931 constitution of the Chinese Soviet Republic (Kiangsi). That constitution referred to the political power of "the state of the democratic dictatorship of the workers and peasants." (10)
+This idea of workers' and peasants' political power, originally Lenin's, was not only used by Mao in October 1928 and January 1930, but also appears in the 1931 constitution of the Chinese Soviet Republic (Jiangxi). That constitution referred to the political power of "the state of the democratic dictatorship of the workers and peasants." (10)
 
 But in the late 1930s, Mao began to develop his own idea of Communist dictatorship, carrying Lenin's innovation one step further by bringing yet another class--the "middle," or "national," bourgeoisie--into the circle of the select. The "big" bourgeoisie, compradors, landlords, "bullying gentry," and the reactionary section of the "vagrants" (lumpenproletariat) were excluded.
 
@@ -114,7 +114,7 @@ That is what Lenin did after the Bolshevik takeover in 1917; the dictatorship of
 
 FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY
 
-Since 1949, the Chinese have shown considerable sensitivity to apparent Soviet efforts to erode or conceal the uniqueness of Mao's slogan. In 1952, the Peking Jen-min Jih-pao noted with apparent delight the criticism by Soviet scholars of the book Historical Materialism (Konstantinov, editor) which had "incorrectly" described China's state form. Jen-min Jih-pao reports the criticism:
+Since 1949, the Chinese have shown considerable sensitivity to apparent Soviet efforts to erode or conceal the uniqueness of Mao's slogan. In 1952, the Beijing Jen-min Jih-pao noted with apparent delight the criticism by Soviet scholars of the book Historical Materialism (Konstantinov, editor) which had "incorrectly" described China's state form. Jen-min Jih-pao reports the criticism:
 
 "In the last paragraph of Section 2, Chapter 9, "On the Soviet Socialist State," the writer states that the People's Republic of China has established a revolutionary democratic dictatorship of the proletariat and peasantry. This definition fails to indicate fully and correctly the characteristics and special features of the state power of the People's Republic of China (genuine people's and democratic state power)...."
 
@@ -122,13 +122,13 @@ The writer does not give attention to the alliance of the working class and the 
 
 In discussing China's "people's democratic dictatorship," other Soviet writers seem to have made it a standard procedure to conceal its originality by equating it with the Lenin-Stalin slogan. Thus V. Maslennikov, describing the nature of China's "people's democracy," credits Stalin, among other things, with having "predicted" that the future revolutionary power would be "something like" Lenin's "democratic dictatorship of the proletariat and peasantry" which would be a state form in the state of transition to socialism. (30)
 
-The Chinese effort to resist Soviet imposition of the Lenin-Stalin slogan is manifest in the manner used by Zhang Ruxin in treating this slogan in his eulogy of Stalin in April 1953. (Chang's essay is a tribute to Mao as well.) Chang's procedure is simple: he conspicuously deletes Stalin's phrase, "that is, something in the nature of a democratic dictatorship of the proletariat and peasantry".
+The Chinese effort to resist Soviet imposition of the Lenin-Stalin slogan is manifest in the manner used by Zhang Ruxin in treating this slogan in his eulogy of Stalin in April 1953. (Zhang's essay is a tribute to Mao as well.) Zhang's procedure is simple: he conspicuously deletes Stalin's phrase, "that is, something in the nature of a democratic dictatorship of the proletariat and peasantry".
 
 FOR OFFICIAL USE ONLY In his article On the Prospects of the Revolution in China, published in 1926, Stalin wrote:
 
-"I think that the future revolutionary government in China will in general resemble in character the government we used to talk about in our country in 1905----with the difference, however, that it will be first and foremost an anti-imperialist government. This shall be an interim state power for China to attain non-capitalist development. (31) [REDACTED] Chang's dashes indicating deletion/
+"I think that the future revolutionary government in China will in general resemble in character the government we used to talk about in our country in 1905----with the difference, however, that it will be first and foremost an anti-imperialist government. This shall be an interim state power for China to attain non-capitalist development. (31) [REDACTED] Zhang's dashes indicating deletion/
 
-Chang goes on to say that China's state power belongs to the general "type of state power" described by Stalin, but then quotes from Mao's On People's Democratic Dictatorship the passage which specifically includes the national bourgeoisie.
+Zhang goes on to say that China's state power belongs to the general "type of state power" described by Stalin, but then quotes from Mao's On People's Democratic Dictatorship the passage which specifically includes the national bourgeoisie.
 
 We may now ask, Why did Moscow attempt to blur the distinction between a democratic dictatorship of the proletariat and the peasantry and a "people's democratic dictatorship"? There are several reasons, the most obvious being the Chinese claim that Mao had "further developed" the Marxist-Leninist theory of state.
 
@@ -206,11 +206,11 @@ What I did that was new was to prove: (1) that the existence of classes is only 
 
 2. Marx-Engels: Selected Works, Volume II, Foreign Languages Publishing House, Moscow, 1955, pp. 32-33.
 
-3. Du Shousu: "Chairman Mao's On the People's Democratic Dictatorship -- A Program for the Development of the Chinese Revolution and the Crystallization of the Ideology of Mao Zedong," in The Theory and Practice of the People's Democratic Dictatorship, Tuan-chieh Chu-pan She; 20 October 1949, Canton, page 11.
+3. Du Shousu: "Chairman Mao's On the People's Democratic Dictatorship -- A Program for the Development of the Chinese Revolution and the Crystallization of the Ideology of Mao Zedong," in The Theory and Practice of the People's Democratic Dictatorship, Tuan-chieh Zhu-pan She; 20 October 1949, Canton, page 11.
 
 4. Li Mian: "The People's State -- A Study Note on People's Democratic Dictatorship," in The Theory and Practice of the People's Democratic Dictatorship, op. cit., p. 32. FOR OFFICIAL USE ONLY
 
-5. Liu Pinglin: "Seriously Study Comrade Mao Zedong's Doc- trine on the Dictatorship of the Proletariat," Tsinan Ta-chung Jih-pao, 12 May 1960.
+5. Liu Pinglin: "Seriously Study Comrade Mao Zedong's Doc- trine on the Dictatorship of the Proletariat," Tsinan Ta-zhong Jih-pao, 12 May 1960.
 
 6. Mao Zedong: Selected Works, Volume I, International Pub- lishers, New York, 1954, p. 67.
 
@@ -222,13 +222,13 @@ What I did that was new was to prove: (1) that the existence of classes is only 
 
 9. Stalin: "Prospects of the Revolution in China" (November 1926), Works, Volume VIII. Foreign Languages Publishing House, Moscow, 1954, p. 382.
 
-10. Outline Constitution of the Chinese Soviet Republic (Adopted at the First National Congress of Chinese Soviets on November 7, 1931), in Su-wei-ai Chung-kuo (Soviet China), printed in Moscow in Chinese. Soviet Foreign Languages Publishing House, 1933, pp. 38-39.
+10. Outline Constitution of the Chinese Soviet Republic (Adopted at the First National Congress of Chinese Soviets on November 7, 1931), in Su-wei-ai Zhong-kuo (Soviet China), printed in Moscow in Chinese. Soviet Foreign Languages Publishing House, 1933, pp. 38-39.
 
 11. Mao Zedong: Selected Works, op. cit., Volume 3, pp. 96-97.
 
 FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY
 
-12. Mao Zedong: ibid., p. 97. The original text, published prior to the establishment of the Communist regime in 1949, also calls for the "dictatorship of the united front of several revolutionary parties" in addition to the revolutionary classes. (Cf. Mao Zedong: Hsuan-chi (Selected Works), Ta-lien (Dairen) Ta-chung Shutien, November 1947, pp. 185-186.)
+12. Mao Zedong: ibid., p. 97. The original text, published prior to the establishment of the Communist regime in 1949, also calls for the "dictatorship of the united front of several revolutionary parties" in addition to the revolutionary classes. (Cf. Mao Zedong: Hsuan-chi (Selected Works), Ta-lien (Dairen) Ta-zhong Shutien, November 1947, pp. 185-186.)
 
 13. Ibid., p. 89.
 
@@ -250,7 +250,7 @@ FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY
 
 22. Lenin: "Two Tactics of Social Democracy in the Democratic Revolution," in Selected Works, Volume I, Part 2, op. cit., pp. 144-146.
 
-FOR OFFICIAL USE ONLY 23. Lenin: State and Revolution, International Publishers, New York, 1935, p. 33. 24. Ibid., pp. 34-35. 25. Lenin: "Two Tactics...," in Selected Works, op. cit., p. 56. 26. Ibid., p. 59. 27. Ibid., p. 104. 28. Ibid., p. 140. 29. "The Problem of the Character of the Chinese Revolution Ap- pear in Discussions on the New Soviet Book, Historical Materialism," Peking Jen-min Jih-pao, 28 April 1952. (For an account of the Soviet discussion, see Voprosy filosofi (Problems of Philosophy), No. 4, 1951, Moscow, which car- ried a report on the enlarged conference of the Soviet Institute of Philosophical Studies and the Department of Philosophy of the Academy of Sciences.) 30. V. Maslennikov: "On the Nature of People's Democracy in China," Voprosy Ekonomiki, No. 3, March, 1953. 31. Zhang Ruxin: "Stalin's Great Theoretical Contributions to the Chinese Revolution," Peking Jen-min Jih-pao, 3 April 1953. 32. Mao Zedong: "On New Democracy," in Selected Works, Volume 3, op. cit., p. 119. 33. Ji Yun: "The Economy of the Transition Period from Capital- ism to Socialism," Hsueh-hsi (Study), 2 October 1953. 34. The first significant extension of Chinese influence among Asian Communist parties began shortly after the establish- ment of the Chinese Communist regime (1 October 1949), when, on 23 November, Liu Shaoqi told the Trade Union Conference of Asian and Australasian Countries that FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY 23. Lenin: State and Revolution, International Publishers, New York, 1935, p. 33. 24. Ibid., pp. 34-35. 25. Lenin: "Two Tactics...," in Selected Works, op. cit., p. 56. 26. Ibid., p. 59. 27. Ibid., p. 104. 28. Ibid., p. 140. 29. "The Problem of the Character of the Chinese Revolution Ap- pear in Discussions on the New Soviet Book, Historical Materialism," Beijing Jen-min Jih-pao, 28 April 1952. (For an account of the Soviet discussion, see Voprosy filosofi (Problems of Philosophy), No. 4, 1951, Moscow, which car- ried a report on the enlarged conference of the Soviet Institute of Philosophical Studies and the Department of Philosophy of the Academy of Sciences.) 30. V. Maslennikov: "On the Nature of People's Democracy in China," Voprosy Ekonomiki, No. 3, March, 1953. 31. Zhang Ruxin: "Stalin's Great Theoretical Contributions to the Chinese Revolution," Beijing Jen-min Jih-pao, 3 April 1953. 32. Mao Zedong: "On New Democracy," in Selected Works, Volume 3, op. cit., p. 119. 33. Ji Yun: "The Economy of the Transition Period from Capital- ism to Socialism," Hsueh-hsi (Study), 2 October 1953. 34. The first significant extension of Chinese influence among Asian Communist parties began shortly after the establish- ment of the Chinese Communist regime (1 October 1949), when, on 23 November, Liu Shaoqi told the Trade Union Conference of Asian and Australasian Countries that FOR OFFICIAL USE ONLY
 
 The road taken by the Chinese people in defeating imperialism...is the road that should be taken by the peoples of many colonial and semi-colonial countries in their fight for national independence and people's democracy... This is the road of Mao Zedong. (Shanghai Wen Hui Pao, 25 November 1949)
 
@@ -264,7 +264,7 @@ Although the line of "Mao Zedong's road" was thereby temporarily held in check b
 
 FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY
 
-36. Reprinted in Shih-chieh Chih-shih (World Knowledge), Peking, 3 December 1953.
+36. Reprinted in Shih-chieh Chih-shih (World Knowledge), Beijing, 3 December 1953.
 
 37. Reprinted in Shih-chieh Chih-shih, 20 May 1954.
 
@@ -308,11 +308,11 @@ Following the Stalin-Tito break and 1948 revision of the Soviet theory, Pravda's
 
 FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY
 
-48. Hu Qiaomu: Thirty Years of the CCP, Jen-min Chu-pan She, Peking, August 1952, second edition, p. 76.
+48. Hu Qiaomu: Thirty Years of the CCP, Jen-min Zhu-pan She, Beijing, August 1952, second edition, p. 76.
 
-The preamble to the Constitution of the People's Republic of China (adopted 20 September 1954) states that the regime is "a people's democratic dictatorship." Article 5 includes "capitalist ownership" as a basic form of ownership of the means of production and Article 10 says that "The state protects the right of capitalists to own means of production and other capital according to law." (Cf. Constitution of the People's Republic of China, Foreign Languages Press, Peking, 1954, pp. 3, 10, and 12.)
+The preamble to the Constitution of the People's Republic of China (adopted 20 September 1954) states that the regime is "a people's democratic dictatorship." Article 5 includes "capitalist ownership" as a basic form of ownership of the means of production and Article 10 says that "The state protects the right of capitalists to own means of production and other capital according to law." (Cf. Constitution of the People's Republic of China, Foreign Languages Press, Beijing, 1954, pp. 3, 10, and 12.)
 
-49. Wu Jiang: "The Transition Period and the Class Struggle," Hsueh-hsi, Peking, 2 June 1954.
+49. Wu Jiang: "The Transition Period and the Class Struggle," Hsueh-hsi, Beijing, 2 June 1954.
 
 50. "In essence, there is no difference between state-capitalism under a dictatorship of the proletariat and state-capitalism under a people's democratic dictatorship..." (Cf. Di Chaobai: "State-Capitalism in Our Transition Period," Hsueh-hsi, 2 February 1954.)
 
@@ -324,7 +324,7 @@ The logic of this approach escaped many. Theorist Yu Kuangyuan ventured an expla
 
 FOR OFFICIAL USE ONLY FOR OFFICIAL USE ONLY
 
-52. "The Political Report of the Central Committee of the CCP to the Eighth National Congress of the Party, delivered by Liu Shaoqi on 15 September 1956, in Eighth National Congress of the CCP: Volume I, Documents, Foreign Lan- guages Press, Peking, 1956, p. 19.
+52. "The Political Report of the Central Committee of the CCP to the Eighth National Congress of the Party, delivered by Liu Shaoqi on 15 September 1956, in Eighth National Congress of the CCP: Volume I, Documents, Foreign Lan- guages Press, Beijing, 1956, p. 19.
 
 53. Y. Pavlov: "Who Benefits?", Pravda, 18 December 1956.
 

@@ -4,7 +4,7 @@ This repository contains Markdown transcriptions and a browsable catalog of thre
 
 The original declassified papers are available from CIA's website as PDF documents. I transcribed them into text to make the collection easier to search, quote, reuse. I particularly wanted to create text-only transcriptions to facilitate analysis using large language models.
 
-For background and context, see ["Cold War Era Hard Target Analysis Of Soviet And Chinese Policy And Decision Making, 1953-1973"]( <./Introduction - The Caesar Polo and Esau Papers.md> ), written by CIA historians in 2007. Dylan Levi King also [wrote an analysis](https://www.chinatalk.media/p/heretics-in-the-cia-predicting-the) of these materials in the January 24, 2024 edition of ChinaTalk, much of which is not paywalled.
+For background and context, see ["Cold War Era Hard Target Analysis Of Soviet And Chinese Policy And Decision Making, 1953-1973"](./Introduction.md), written by CIA historians in 2007. Dylan Levi King also [wrote an analysis](https://www.chinatalk.media/p/heretics-in-the-cia-predicting-the) of these materials in the January 24, 2024 edition of ChinaTalk, much of which is not paywalled.
 
 ## How to browse
 Start with a series:
@@ -20,7 +20,11 @@ The master catalog is **[`catalog/catalog.csv`](./catalog/catalog.csv)** with fi
 ## Provenance & caveats
 - Transcriptions were produced via OCR; expect occasional mistakes. If you spot significant errors, feel free to open an issue or suggest a fix.
 - Document metadata in each Markdown file comes from the catalog and/or source PDF metadata where available.
+<<<<<<< HEAD
 - Filenames/IDs follow the CIA series conventions, e.g. `esau-13`, `polo-34`, etc.
 
 ## Licensing
 All original content in this repository (transcriptions and catalog) is dedicated to the **public domain** under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). To the extent possible under law, I waive all copyright and related or neighboring rights to the contents of this repository.
+=======
+- Filenames/IDs follow the CIA series conventions, e.g. `esau-13`, `polo-34`, etc.
+>>>>>>> 5e862ce (Normalize pinyin)
