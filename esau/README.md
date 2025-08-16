@@ -1,7 +1,5 @@
 # ESAU Series
 
-_Single-table view generated from `catalog/catalog.csv`._
-
 | Title | Transcription | Pages | Classification | Original PDF | Year |
 |---|---|---:|---|---|:--:|
 | The Commune: Conception And Experimentation | [esau-02](./1958/esau-02.md) | 25 | SECRET | [PDF](https://www.cia.gov/readingroom/docs/esau-02.pdf) | 1958 |
