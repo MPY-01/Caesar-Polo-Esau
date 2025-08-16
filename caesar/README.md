@@ -1,7 +1,5 @@
 # CAESAR Series
 
-_Single-table view generated from `catalog/catalog.csv`._
-
 | Title | Transcription | Pages | Classification | Original PDF | Year |
 |---|---|---:|---|---|:--:|
 | The Doctors' Plot | [caesar-01](./1953/caesar-01.md) | 17 | TOP SECRET | [PDF](https://www.cia.gov/readingroom/docs/caesar-01.pdf) | 1953 |
