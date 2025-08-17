@@ -180,8 +180,5 @@ In The Sino-Sozliet Border Dispute | ESAU | [esau-44](esau/1970/esau-44.md) | 10
 | Policy Issues In The Purge Of Lin Piao | POLO | [polo-36](polo/1972/polo-36.md) | 65 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-36.pdf) | 1972 |
 | Peking'S Support Of Insurgencies In Southeast Asia | POLO | [polo-37](polo/1973/polo-37.md) | 145 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-37.pdf) | 1973 |
 | China'S Regional And Provincial Leaders The Purge Of The Military, The Rise Of Old Party Cadres | POLO | [polo-38](polo/1973/polo-38.md) | 126 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-38.pdf) | 1973 |
-| Cold War Era Hard Target Analysis Of Soviet And Chinese Policy And Decision Making, 1953-1973 |  | [overview](overview.md) | 6 | UNCLASSIFIED | [PDF](https://www.cia.gov/readingroom/docs/overview.pdf) | 2007 |
 
 <!-- END_COMBINED_TOC -->
-
->>>>>>> b1b9aa4 (Add combined Table of Contents to README)
