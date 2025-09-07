@@ -4,7 +4,7 @@ title: "CIA's CAESAR, POLO, and ESAU Papers"
 
 # CIA's CAESAR, POLO, and ESAU Papers (Transcriptions)
 
-This repository contains Markdown transcriptions and a browsable catalog of three CIA historical series from the Cold War era (1953–1973), which together were about 11,000 pages: **CAESAR**, **POLO**, and **ESAU**. These papers constitute remarkable in-depth analyses of decisionmaking in China, the Soviet Union, and the Sino-Soviet relationship during the 1950s, 60s, and 70s. 
+This site contains transcriptions and a browsable catalog of three CIA historical series from the Cold War era (1953–1973), which together were about 11,000 pages: **CAESAR**, **POLO**, and **ESAU**. These papers constitute remarkable in-depth analyses of decisionmaking in China, the Soviet Union, and the Sino-Soviet relationship during the 1950s, 60s, and 70s. 
 
 The original declassified papers are available from CIA's website as PDF documents. I transcribed them into text to make the collection easier to search, quote, reuse. I particularly wanted to create text-only transcriptions to facilitate analysis using large language models.
 
@@ -22,7 +22,7 @@ Inside each series you’ll find subfolders by **year** and a **Table of Content
 The master catalog is **[`catalog/catalog.csv`](./catalog/catalog.csv)** with fields like `title`, `publication_date`, `producing_office`, `original_classification`, `page_count`, and the `source_url`.
 
 ## Provenance & caveats
-- Transcriptions were produced via OCR; expect occasional mistakes. If you spot significant errors, feel free to open an issue or suggest a fix.
+- Transcriptions were produced via OCR; expect occasional mistakes. If you spot significant errors, feel free to open an issue or suggest a fix [on the GitHub repo that this site mirrors.](https://github.com/MPY-01/Caesar-Polo-Esau/)
 - Document metadata in each Markdown file comes from the catalog and/or source PDF metadata where available.
 - Filenames/IDs follow the original CIA series conventions, e.g. `esau-13`, `polo-34`, etc.
 
