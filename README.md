@@ -1,3 +1,7 @@
+---
+title: "CIA's CAESAR, POLO, and ESAU Papers"
+---
+
 # CIA's CAESAR, POLO, and ESAU Papers (Transcriptions)
 
 This repository contains Markdown transcriptions and a browsable catalog of three CIA historical series from the Cold War era (1953–1973), which together were about 11,000 pages: **CAESAR**, **POLO**, and **ESAU**. These papers constitute remarkable in-depth analyses of decisionmaking in China, the Soviet Union, and the Sino-Soviet relationship during the 1950s, 60s, and 70s. 
