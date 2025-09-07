@@ -4,7 +4,7 @@ title: "CIA's CAESAR, POLO, and ESAU Papers"
 
 # CIA's CAESAR, POLO, and ESAU Papers (Transcriptions)
 
-This site contains Markdown transcriptions and a browsable catalog of three CIA historical series from the Cold War era (1953–1973), which together were about 11,000 pages: **CAESAR**, **POLO**, and **ESAU**. These papers constitute remarkable in-depth analyses of decisionmaking in China, the Soviet Union, and the Sino-Soviet relationship during the 1950s, 60s, and 70s. 
+This site contains transcriptions and a browsable catalog of three CIA historical series from the Cold War era (1953–1973), which together were about 11,000 pages: **CAESAR**, **POLO**, and **ESAU**. These papers constitute remarkable in-depth analyses of decisionmaking in China, the Soviet Union, and the Sino-Soviet relationship during the 1950s, 60s, and 70s. 
 
 The original declassified papers are available from CIA's website as PDF documents. I transcribed them into text to make the collection easier to search, quote, reuse. I particularly wanted to create text-only transcriptions to facilitate analysis using large language models.
 
@@ -23,7 +23,7 @@ The master catalog is **[`catalog/catalog.csv`](./catalog/catalog.csv)** with fi
 
 ## Provenance & caveats
 - Transcriptions were produced via OCR; expect occasional mistakes. If you spot significant errors, feel free to open an issue or suggest a fix [on the GitHub repo that this site mirrors.](https://github.com/MPY-01/Caesar-Polo-Esau/)
-- Document metadata in each Markdown file comes from the catalog in/or source PDF metadata where available.
+- Document metadata in each Markdown file comes from the catalog and/or source PDF metadata where available.
 - Filenames/IDs follow the original CIA series conventions, e.g. `esau-13`, `polo-34`, etc.
 
 ## Combined Table of Contents
@@ -34,7 +34,7 @@ The master catalog is **[`catalog/catalog.csv`](./catalog/catalog.csv)** with fi
 |---|:--:|---|---:|---|---|:--:|
 | The Doctors' Plot | CAESAR | [caesar-01](caesar/1953/caesar-01.md) | 17 | TOP SECRET | [PDF](https://www.cia.gov/readingroom/docs/caesar-01.pdf) | 1953 |
 | Death Of Stalin | CAESAR | [caesar-02](caesar/1953/caesar-02.md) | 24 | TOP SECRET | [PDF](https://www.cia.gov/readingroom/docs/caesar-02.pdf) | 1953 |
-| Germany | CAESAR | [caesar-03](caesar/1953/caesar-03.md) | 6 | Top Secret| [PDF](https://www.cia.gov/readingroom/docs/caesar-03.pdf) | 1953 |
+| Germany | CAESAR | [caesar-03](caesar/1953/caesar-03.md) | 6 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-03.pdf) | 1953 |
 | Melnikov'S Removal In The Ukraine | CAESAR | [caesar-05](caesar/1953/caesar-05.md) | 6 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-05.pdf) | 1953 |
 | The Reversal Of The Doctors' Plot And Its Immediate Aftermath | CAESAR | [caesar-04](caesar/1953/caesar-04.md) | 14 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-04.pdf) | 1953 |
 | The Zhdanov - Malenkov Relationship | CAESAR | [caesar-06](caesar/1953/caesar-06.md) | 17 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-06.pdf) | 1953 |
