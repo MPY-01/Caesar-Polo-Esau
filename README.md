@@ -8,7 +8,7 @@ This site contains transcriptions and a browsable catalog of three CIA historica
 
 The original declassified papers are available from CIA's website as PDF documents. I transcribed them into text to make the collection easier to search, quote, reuse. I particularly wanted to create text-only transcriptions to facilitate analysis using large language models.
 
-For background and context, see ["Cold War Era Hard Target Analysis Of Soviet And Chinese Policy And Decision Making, 1953-1973"](./Introduction.md), written by CIA historians in 2007. Dylan Levi King also [wrote an analysis](https://www.chinatalk.media/p/heretics-in-the-cia-predicting-the) of these materials in the January 24, 2024 edition of ChinaTalk, much of which is not paywalled.
+For background and context, see ["Cold War Era Hard Target Analysis Of Soviet And Chinese Policy And Decision Making, 1953-1973"](./introduction.md), written by CIA historians in 2007. Dylan Levi King also [wrote an analysis](https://www.chinatalk.media/p/heretics-in-the-cia-predicting-the) of these materials in the January 24, 2024 edition of ChinaTalk, much of which is not paywalled.
 
 ## How to browse
 Start with a series:
