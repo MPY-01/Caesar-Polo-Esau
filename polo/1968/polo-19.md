@@ -1,6 +1,6 @@
 ---
 id: polo-19
-title: "Mao'S \"Cultural Revolution\" In 1967: The Struggle To \"Seize Power\""
+title: 'Mao''S "Cultural Revolution" In 1967: The Struggle To "Seize Power"'
 publication_date: '1968-05-24'
 producing_office: RSS
 original_classification: Secret

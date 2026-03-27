@@ -1,6 +1,6 @@
 ---
 id: polo-02
-title: "Mao Tse-Tung And Historical Materialism Ii. The State Form (\"People'S Democratic Dictatorship\")"
+title: 'Mao Tse-Tung And Historical Materialism Ii. The State Form ("People''S Democratic Dictatorship")'
 publication_date: '1961-06-29'
 producing_office: Office of Current Intelligence
 original_classification: Official Use Only

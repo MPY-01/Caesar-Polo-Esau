@@ -1,6 +1,6 @@
 ---
 id: polo-13
-title: "Mao'S \"Cultural Revolution\": Its Leadership, Its Strategy, Its Instruments, And Its Casualties"
+title: 'Mao''S "Cultural Revolution": Its Leadership, Its Strategy, Its Instruments, And Its Casualties'
 publication_date: '1967-02-18'
 producing_office: UNKNOWN
 original_classification: Top Secret

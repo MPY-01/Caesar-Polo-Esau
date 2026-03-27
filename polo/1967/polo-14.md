@@ -1,6 +1,6 @@
 ---
 id: polo-14
-title: "Mao'S \"Cultural Revolution\": Origin And Development"
+title: 'Mao''S "Cultural Revolution": Origin And Development'
 publication_date: '1967-10-06'
 producing_office: RSS
 original_classification: Secret

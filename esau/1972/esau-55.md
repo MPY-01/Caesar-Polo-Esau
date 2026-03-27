@@ -1,6 +1,6 @@
 ---
 id: esau-55
-title: "\"Finlandization\" In Action: Helsinki'S Experience With Moscow"
+title: '"Finlandization" In Action: Helsinki''S Experience With Moscow'
 publication_date: '1972-08-01'
 producing_office: RSS
 original_classification: Secret
