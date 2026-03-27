@@ -52,7 +52,7 @@ The master catalog is **[`catalog/catalog.csv`](./catalog/catalog.csv)** with fi
 | Differences In Temperament Among Soviet Leaders As Shown By Their Approach To Policy Issues 1945 - 1957 | CAESAR | [caesar-18](caesar/1957/caesar-18.md) | 42 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-18.pdf) | 1957 |
 | The Commune: Conception And Experimentation | ESAU | [esau-02](esau/1958/esau-02.md) | 25 | SECRET | [PDF](https://www.cia.gov/readingroom/docs/esau-02.pdf) | 1958 |
 | From The January Plenum To The July Plenum (1955) - Antecedents And Aftermath Of Malenkov'S Resignation From The Premiership | CAESAR | [caesar-19](caesar/1958/caesar-19.md) | 57 | Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-19.pdf) | 1958 |
-| The Caesar, Polo, And Esau Papers |  | [index](index.md) | 7 | UNCLASSIFIED | [PDF](https://www.cia.gov/readingroom/docs/index.pdf) | 1958 |
+| The Caesar, Polo, And Esau Papers |  | [introduction](introduction.md) | 7 | UNCLASSIFIED | [PDF](https://www.cia.gov/readingroom/docs/index.pdf) | 1958 |
 | From The July Plenum (1955) To The 20Th Party Congress -- Antecedents And Aftermath Of Malenkov'S Resignation From The Premiership | CAESAR | [caesar-20](caesar/1958/caesar-20.md) | 69 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-20.pdf) | 1958 |
 | The Tie That Binds - Soviet Intrabloc Relations | CAESAR | [caesar-21](caesar/1958/caesar-21.md) | 55 | CONFIDENTIAL | [PDF](https://www.cia.gov/readingroom/docs/caesar-21.pdf) | 1958 |
 | The Failure Of The Soviet-Yugoslav Rapprochement | CAESAR | [caesar-22](caesar/1958/caesar-22.md) | 26 | Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-22.pdf) | 1958 |
