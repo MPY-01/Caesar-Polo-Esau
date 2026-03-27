@@ -121,9 +121,7 @@ The master catalog is **[`catalog/catalog.csv`](./catalog/catalog.csv)** with fi
 | Strains In Soviet-East German Relations: 1962-1967 | CAESAR | [caesar-42](caesar/1967/caesar-42.md) | 115 | SECRET | [PDF](https://www.cia.gov/readingroom/docs/caesar-42.pdf) | 1967 |
 | The Sino-Soviet Dispute Within The Communist Movement In Latin America | ESAU | [esau-32](esau/1967/esau-32.md) | 187 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-32.pdf) | 1967 |
 | Policy And Politics In The Cpsu Politburo: October 1964 To September 1967 | CAESAR | [caesar-43](caesar/1967/caesar-43.md) | 103 | Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-43.pdf) | 1967 |
-| The Sino-Soviet Struggle
-In The World Communist Movement
-Since Khrushchev’S Fall (Part 3) | ESAU | [esau-35](esau/1967/esau-35.md) | 206 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-35.pdf) | 1967 |
+| The Sino-Soviet Struggle In The World Communist Movement Since Khrushchev’S Fall (Part 3) | ESAU | [esau-35](esau/1967/esau-35.md) | 206 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-35.pdf) | 1967 |
 | The Sino-Soviet Struggle In The World Communist Movement Since Khrushchev'S Fall (Part 1) | ESAU | [esau-33](esau/1967/esau-33.md) | 197 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-33.pdf) | 1967 |
 | The Sino-Soviet Struggle In The World Communist Movement Since Khrushchev'S Fall (Part 2) | ESAU | [esau-34](esau/1967/esau-34.md) | 161 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-34.pdf) | 1967 |
 | Mao'S "Cultural Revolution": Origin And Development | POLO | [polo-14](polo/1967/polo-14.md) | 124 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-14.pdf) | 1967 |
@@ -136,8 +134,7 @@ Since Khrushchev’S Fall (Part 3) | ESAU | [esau-35](esau/1967/esau-35.md) | 20
 | Red Guard And Revolutionary Rebel Organizations In Communist China (A Research Aid) | POLO | [polo-20](polo/1968/polo-20.md) | 71 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-20.pdf) | 1968 |
 | Mao'S "Cultural Revolution" Iii. The Purge Of The P.L.A. And The Stardom Of Madame Mao | POLO | [polo-22](polo/1968/polo-22.md) | 83 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-22.pdf) | 1968 |
 | Mao'S Red Guard Diplomacy: 1967 | POLO | [polo-21](polo/1968/polo-21.md) | 37 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-21.pdf) | 1968 |
-| The Stalin Issue And
-The Soviet Leadership Struggle | CAESAR | [caesar-44](caesar/1968/caesar-44.md) | 18 | Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-44.pdf) | 1968 |
+| The Stalin Issue And The Soviet Leadership Struggle | CAESAR | [caesar-44](caesar/1968/caesar-44.md) | 18 | Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-44.pdf) | 1968 |
 | The Stalin Issue And The Soviet Leadership Struggle | CAESAR | [caesar-45](caesar/1968/caesar-45.md) | 146 | Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-45.pdf) | 1968 |
 | Factionalism In The Central Committee: Mao'S Opposition Since 1949 | POLO | [polo-23](polo/1968/polo-23.md) | 38 | CONFIDENTIAL | [PDF](https://www.cia.gov/readingroom/docs/polo-23.pdf) | 1968 |
 | The Sino-Soviet Dispute On Aid To North Vietnam (1965-1968) | ESAU | [esau-37](esau/1968/esau-37.md) | 33 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-37.pdf) | 1968 |
@@ -158,8 +155,7 @@ The Soviet Leadership Struggle | CAESAR | [caesar-44](caesar/1968/caesar-44.md) 
 | Czechoslovakia: The Problem Of Soviet Control | ESAU | [esau-43](esau/1970/esau-43.md) | 66 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-43.pdf) | 1970 |
 | Lin Piao And The Great Helmsman | POLO | [polo-29](polo/1970/polo-29.md) | 31 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-29.pdf) | 1970 |
 | Soviet Policy And The 1967 Arab-Israeli War | CAESAR | [caesar-50](caesar/1970/caesar-50.md) | 71 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-50.pdf) | 1970 |
-| The Evolution Of Soviet Policy
-In The Sino-Sozliet Border Dispute | ESAU | [esau-44](esau/1970/esau-44.md) | 101 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-44.pdf) | 1970 |
+| The Evolution Of Soviet Policy In The Sino-Sozliet Border Dispute | ESAU | [esau-44](esau/1970/esau-44.md) | 101 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-44.pdf) | 1970 |
 | The Prussian Heresy: Ulbricht'S Evolving System | ESAU | [esau-45](esau/1970/esau-45.md) | 60 | Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-45.pdf) | 1970 |
 | The Cultural Revolution And The New Political System In China | POLO | [polo-30](polo/1970/polo-30.md) | 29 | Secret | [PDF](https://www.cia.gov/readingroom/docs/polo-30.pdf) | 1970 |
 | Yugoslavia: The Outworn Structure | ESAU | [esau-46](esau/1970/esau-46.md) | 72 | Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-46.pdf) | 1970 |
