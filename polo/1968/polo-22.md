@@ -1,6 +1,6 @@
 ---
 id: polo-22
-title: "Mao'S \"Cultural Revolution\" Iii. The Purge Of The P.L.A. And The Stardom Of Madame Mao"
+title: 'Mao''S "Cultural Revolution" Iii. The Purge Of The P.L.A. And The Stardom Of Madame Mao'
 publication_date: '1968-06-01'
 producing_office: UNKNOWN
 original_classification: Top Secret
