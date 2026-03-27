@@ -45,8 +45,7 @@
 | The New Soviet Constitution And The Party-State Issue In Cpsu Politics, 1956-1966 | [caesar-41](./1966/caesar-41.md) | 113 | Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-41.pdf) | 1966 |
 | Strains In Soviet-East German Relations: 1962-1967 | [caesar-42](./1967/caesar-42.md) | 115 | SECRET | [PDF](https://www.cia.gov/readingroom/docs/caesar-42.pdf) | 1967 |
 | Policy And Politics In The Cpsu Politburo: October 1964 To September 1967 | [caesar-43](./1967/caesar-43.md) | 103 | Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-43.pdf) | 1967 |
-| The Stalin Issue And
-The Soviet Leadership Struggle | [caesar-44](./1968/caesar-44.md) | 18 | Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-44.pdf) | 1968 |
+| The Stalin Issue And The Soviet Leadership Struggle | [caesar-44](./1968/caesar-44.md) | 18 | Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-44.pdf) | 1968 |
 | The Stalin Issue And The Soviet Leadership Struggle | [caesar-45](./1968/caesar-45.md) | 146 | Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-45.pdf) | 1968 |
 | Politics In The Soviet Politburo And The Czech Crisis | [caesar-46](./1968/caesar-46.md) | 19 | Confidential | [PDF](https://www.cia.gov/readingroom/docs/caesar-46.pdf) | 1968 |
 | Institute For The Usa: The Kremlin'S New Approach To America-Watching | [caesar-47](./1969/caesar-47.md) | 44 | Secret | [PDF](https://www.cia.gov/readingroom/docs/caesar-47.pdf) | 1969 |

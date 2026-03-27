@@ -36,9 +36,7 @@ _Single-table view generated from `catalog/catalog.csv`._
 | Asian Communist Employment Of Negotiations As A Political Tactic | [esau-30](./1966/esau-30.md) | 55 | Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-30.pdf) | 1966 |
 | The Disintegration Of Japanese Communist Relations With Peking | [esau-31](./1966/esau-31.md) | 77 | CONFIDENTIAL | [PDF](https://www.cia.gov/readingroom/docs/esau-31.pdf) | 1966 |
 | The Sino-Soviet Dispute Within The Communist Movement In Latin America | [esau-32](./1967/esau-32.md) | 187 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-32.pdf) | 1967 |
-| The Sino-Soviet Struggle
-In The World Communist Movement
-Since Khrushchev’S Fall (Part 3) | [esau-35](./1967/esau-35.md) | 206 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-35.pdf) | 1967 |
+| The Sino-Soviet Struggle In The World Communist Movement Since Khrushchev’S Fall (Part 3) | [esau-35](./1967/esau-35.md) | 206 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-35.pdf) | 1967 |
 | The Sino-Soviet Struggle In The World Communist Movement Since Khrushchev'S Fall (Part 1) | [esau-33](./1967/esau-33.md) | 197 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-33.pdf) | 1967 |
 | The Sino-Soviet Struggle In The World Communist Movement Since Khrushchev'S Fall (Part 2) | [esau-34](./1967/esau-34.md) | 161 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-34.pdf) | 1967 |
 | The Attitudes Of North Vietnamese Leaders Toward Fighting And Negotiating | [esau-36](./1968/esau-36.md) | 64 | SECRET | [PDF](https://www.cia.gov/readingroom/docs/esau-36.pdf) | 1968 |
@@ -49,8 +47,7 @@ Since Khrushchev’S Fall (Part 3) | [esau-35](./1967/esau-35.md) | 206 | Top Se
 | The Struggle In The Polish Leadership And The Revolt Of The Apparat | [esau-41](./1969/esau-41.md) | 64 | Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-41.pdf) | 1969 |
 | The Committed Church And Change In Latin America | [esau-42](./1969/esau-42.md) | 60 | SECRET | [PDF](https://www.cia.gov/readingroom/docs/esau-42.pdf) | 1969 |
 | Czechoslovakia: The Problem Of Soviet Control | [esau-43](./1970/esau-43.md) | 66 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-43.pdf) | 1970 |
-| The Evolution Of Soviet Policy
-In The Sino-Sozliet Border Dispute | [esau-44](./1970/esau-44.md) | 101 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-44.pdf) | 1970 |
+| The Evolution Of Soviet Policy In The Sino-Soviet Border Dispute | [esau-44](./1970/esau-44.md) | 101 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-44.pdf) | 1970 |
 | The Prussian Heresy: Ulbricht'S Evolving System | [esau-45](./1970/esau-45.md) | 60 | Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-45.pdf) | 1970 |
 | Yugoslavia: The Outworn Structure | [esau-46](./1970/esau-46.md) | 72 | Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-46.pdf) | 1970 |
 | Fedayeen -- "Men Of Sacrifice" | [esau-47](./1970/esau-47.md) | 55 | Top Secret | [PDF](https://www.cia.gov/readingroom/docs/esau-47.pdf) | 1970 |

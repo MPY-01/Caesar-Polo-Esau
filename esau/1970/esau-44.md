@@ -1,6 +1,6 @@
 ---
 id: esau-44
-title: The Evolution Of Soviet Policy In The Sino-Sozliet Border Dispute
+title: The Evolution Of Soviet Policy In The Sino-Soviet Border Dispute
 publication_date: '1970-04-28'
 producing_office: RSS
 original_classification: Top Secret
